@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naimul Mefraz Khan | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/people/naimul-khan/</link>
+      <atom:link href="http://localhost:1313/people/naimul-khan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Naimul Mefraz Khan</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Naimul Mefraz Khan</title>
+      <link>http://localhost:1313/people/naimul-khan/</link>
+    </image>
+    
+  </channel>
+</rss>

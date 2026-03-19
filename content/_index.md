@@ -25,15 +25,15 @@ sections:
       title: Research Areas
       items:
         - name: Multimedia
-          icon: photo
+         
           description: |
             Image processing, information fusion, and medical imaging applications.
         - name: Computer Vision
-          icon: eye
+         
           description: |
             Object recognition and tracking, action recognition, and augmented reality.
         - name: Machine Learning
-          icon: cpu-chip
+          
           description: |
             Deep learning, multimodal learning, and data engineering.
 
@@ -50,7 +50,7 @@ sections:
         category: ""
         tag: ""
     design:
-      view: card
+      view: article
       columns: 2
 
   - block: collection
@@ -63,5 +63,5 @@ sections:
         folders:
           - publications
     design:
-      view: citation
+      view: article
 ---

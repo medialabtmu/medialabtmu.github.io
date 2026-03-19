@@ -12,6 +12,6 @@ sections:
         folders:
           - news
     design:
-      view: compact
+      view: article
       columns: 1
 ---

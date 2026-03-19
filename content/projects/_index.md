@@ -12,6 +12,6 @@ sections:
         folders:
           - projects
     design:
-      view: showcase
+      view: article
       columns: 1
 ---

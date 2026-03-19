@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/projects/</link>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+    </image>
+    
+    <item>
+      <title>Example Project Title</title>
+      <link>http://localhost:1313/projects/example-project/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/example-project/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Describe the project here. What problem does it address? What methods are used?&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Discovery Grant (if applicable)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Naimul Mefraz Khan (PI)&lt;/li&gt;
+&lt;li&gt;Student Name (PhD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

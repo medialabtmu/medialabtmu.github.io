@@ -14,5 +14,5 @@ sections:
         folders:
           - publications
     design:
-      view: citation
+      view: article
 ---
