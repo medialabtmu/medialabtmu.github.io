@@ -57,7 +57,7 @@ params:
   # Site footer
   footer:
     copyright:
-      notice: "© {year} TMU Multimedia Research Laboratory. Built with [Hugo](https://gohugo.io/) and [HugoBlox](https://hugoblox.com/)."
+      notice: "© {year} TMU Multimedia Research Laboratory"
 
 ############################
 ## Menus
