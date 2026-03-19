@@ -1,0 +1,91 @@
+# =============================================================================
+# TMU Multimedia Research Laboratory - Hugo Configuration
+# =============================================================================
+# Docs: https://docs.hugoblox.com/
+
+baseURL: "https://mmrl.github.io/"  # Change to your domain
+title: "TMU Multimedia Research Laboratory"
+copyright: "TMU Multimedia Research Laboratory"
+
+############################
+## Hugo Options
+############################
+enableGitInfo: false
+defaultContentLanguage: en
+hasCSSConfigFile: true
+
+############################
+## Modules
+############################
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+
+############################
+## Params
+############################
+params:
+  # Site metadata
+  description: "The TMU Multimedia Research Laboratory focuses on multimedia processing, computer vision, and machine learning research."
+  
+  # Appearance
+  appearance:
+    theme_day: minimal
+    theme_night: minimal
+    font: native
+    font_size: L
+
+  # SEO
+  marketing:
+    seo:
+      site_type: Organization
+      org_name: "TMU Multimedia Research Laboratory"
+      description: "Engineering research lab at Toronto Metropolitan University focusing on multimedia, computer vision, and machine learning."
+
+  # Contact
+  contact:
+    email: naimul@torontomu.ca
+    address:
+      street: "350 Victoria Street"
+      city: Toronto
+      region: ON
+      postcode: "M5B 2K3"
+      country: Canada
+      country_code: CA
+
+  # Site footer
+  footer:
+    copyright:
+      notice: "© {year} TMU Multimedia Research Laboratory. Built with [Hugo](https://gohugo.io/) and [HugoBlox](https://hugoblox.com/)."
+
+############################
+## Menus
+############################
+menus:
+  main:
+    - name: Home
+      url: "/"
+      weight: 10
+    - name: People
+      url: "/people/"
+      weight: 20
+    - name: Projects
+      url: "/projects/"
+      weight: 30
+    - name: Publications
+      url: "/publications/"
+      weight: 40
+    - name: News
+      url: "/news/"
+      weight: 50
+    - name: Videos
+      url: "/videos/"
+      weight: 60
+    - name: Join Us
+      url: "/join/"
+      weight: 70
+    - name: Contact
+      url: "/contact/"
+      weight: 80
