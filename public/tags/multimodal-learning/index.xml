@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal Learning | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/multimodal-learning/</link>
+      <atom:link href="http://localhost:1313/tags/multimodal-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal Learning</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Multimodal Learning</title>
+      <link>http://localhost:1313/tags/multimodal-learning/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Affective Computing</title>
+      <link>http://localhost:1313/projects/stress-assessment/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stress-assessment/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Shaftesbury (now Wellwave Inc.), we will develop a machine learning model for mutlimodal assessment of stress. The multimodal sensors can be physiological (e.g. EEG, heart-rate) and behavioural (e.g. facial expressions). The target is to use the assessed stress for Shaftesbury&amp;rsquo;s Positive Distraction Entertainment System which adapts game content dynamically to reduce stress in children before a complex medical procedure, which can reduce complexity and recovery time.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $450K&lt;/li&gt;
+&lt;li&gt;NSERC Alliance + Mitacs Accelerate Grant - $488K&lt;/li&gt;
+&lt;li&gt;New Frontiers in Research Fund - Exploration - $250K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

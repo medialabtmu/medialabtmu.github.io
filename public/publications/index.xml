@@ -5,18 +5,50 @@
     <link>http://localhost:1313/publications/</link>
       <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publications/</link>
     </image>
     
     <item>
-      <title>Example Publication Title</title>
-      <link>http://localhost:1313/publications/example-paper/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/example-paper/</guid>
+      <title>DynaGuide: A Generalizable Dynamic Guidance Framework for Zero-Shot Guided Unsupervised Semantic Segmentation</title>
+      <link>http://localhost:1313/publications/guermazi-2025-dynaguide/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/guermazi-2025-dynaguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Cross-Dataset Electroencephalogram-Based Emotion Recognition Using Unsupervised Domain Adaptation</title>
+      <link>http://localhost:1313/publications/imtiaz-2025-enhanced/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/imtiaz-2025-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Database and Cross-Channel Electrocardiogram Arrhythmia Heartbeat Classification Based on Unsupervised Domain Adaptation</title>
+      <link>http://localhost:1313/publications/imtiaz-2024-cross/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/imtiaz-2024-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel Stress Assessment from ECG in a Virtual Reality Environment Using Multimodal Fusion</title>
+      <link>http://localhost:1313/publications/ahmad-2023-multilevel/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ahmad-2023-multilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Focal Tversky Loss Function with Improved Attention U-Net for Lesion Segmentation</title>
+      <link>http://localhost:1313/publications/abraham-2019-focal/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/abraham-2019-focal/</guid>
       <description></description>
     </item>
     

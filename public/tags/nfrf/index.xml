@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NFRF | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/nfrf/</link>
+      <atom:link href="http://localhost:1313/tags/nfrf/index.xml" rel="self" type="application/rss+xml" />
+    <description>NFRF</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>NFRF</title>
+      <link>http://localhost:1313/tags/nfrf/</link>
+    </image>
+    
+    <item>
+      <title>New Frontiers in Research Fund Award: De-escalation VR Training for Emergency Responders</title>
+      <link>http://localhost:1313/news/nfrf-deescalation-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nfrf-deescalation-2021/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$250,000 New Frontiers in Research Fund (NFRF) Exploration Award&lt;/strong&gt; to develop a virtual reality de-escalation training platform for Canada&amp;rsquo;s emergency responders.&lt;/p&gt;
+&lt;p&gt;In partnership with the &lt;strong&gt;Ontario Provincial Police&lt;/strong&gt;, the project will create adaptive scenario-based VR training experiences using multimodal sensing to dynamically respond to trainee behaviour in real time. The interdisciplinary team includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Natalie Alvarez&lt;/strong&gt; (School of Performing Arts) — narrative design and embodied learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Jennifer Lavoie&lt;/strong&gt; (Criminology, Wilfrid Laurier University) — crisis intervention expertise&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

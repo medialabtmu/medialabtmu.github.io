@@ -4,6 +4,26 @@
 # Add new alumni by copying the template entry below.
 # This renders as a table on the People or Alumni page.
 
+- name: "Zeeshan Ahmad"
+  position: "PhD Student"
+  active: "2018-2022"
+  affiliation: "Assistant Professor, University of Niagara Falls"
+
+- name: "Boujemaa Guermazi"
+  position: "PhD Student"
+  active: "2021-2025"
+  affiliation: "Scientist, Klick Health"
+
+- name: "Carol Wasef"
+  position: "MASc Student"
+  active: "2023-2025"
+  affiliation: "ML Researcher, Foqus Technologies Inc."
+
+- name: "Ragavie Pirabaharan"
+  position: "MASc Student"
+  active: "2021-2023"
+  affiliation: "Product Manager, IBM"
+
 - name: "Julian True"
   position: "MASc Student"
   active: "2018-2021"

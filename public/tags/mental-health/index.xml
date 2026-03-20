@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mental Health | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/mental-health/</link>
+      <atom:link href="http://localhost:1313/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mental Health</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/tags/mental-health/</link>
+    </image>
+    
+    <item>
+      <title>Youth Reflection: Kids Help Phone AI Training Pilot</title>
+      <link>http://localhost:1313/news/kids-help-phone-reflection-2026/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/kids-help-phone-reflection-2026/</guid>
+      <description>&lt;p&gt;Kids Help Phone youth councillor &lt;strong&gt;Simran&lt;/strong&gt; has written a reflection piece on RML&amp;rsquo;s recent pilot project conducted in partnership with &lt;a href=&#34;https://kidshelpphone.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kids Help Phone&lt;/a&gt; — exploring the development of an agentic AI framework for training frontline support workers.&lt;/p&gt;
+&lt;p&gt;The piece offers a youth perspective on how AI-assisted training tools could improve the consistency and quality of mental health support for young people. Read the full reflection: &lt;a href=&#34;https://www.longwoods.com/content/27829/insights/one-session-infinite-support-a-youth-perspective-on-mental-health-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&amp;ldquo;One Session, Infinite Support: A Youth Perspective on Mental Health Research&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

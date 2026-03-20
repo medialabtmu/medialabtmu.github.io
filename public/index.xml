@@ -7,43 +7,374 @@
     <description>TMU Multimedia Research Laboratory</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>TMU Multimedia Research Laboratory</title>
       <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>Example News Post</title>
-      <link>http://localhost:1313/news/example-post/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/example-post/</guid>
-      <description>&lt;p&gt;Full content of the news post goes here.&lt;/p&gt;
+      <title>Naimul Mefraz Khan</title>
+      <link>http://localhost:1313/people/naimul-khan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/people/naimul-khan/</guid>
+      <description>&lt;p&gt;Naimul Mefraz Khan is an Associate Professor in the Department of Electrical,
+Computer, and Biomedical Engineering at Toronto Metropolitan University. He
+directs the Multimedia Research Laboratory, which focuses on multimedia
+processing, computer vision, and machine learning with applications in
+healthcare, defence, and mental health.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Publication Title</title>
-      <link>http://localhost:1313/publications/example-paper/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/example-paper/</guid>
+      <title>Youth Reflection: Kids Help Phone AI Training Pilot</title>
+      <link>http://localhost:1313/news/kids-help-phone-reflection-2026/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/kids-help-phone-reflection-2026/</guid>
+      <description>&lt;p&gt;Kids Help Phone youth councillor &lt;strong&gt;Simran&lt;/strong&gt; has written a reflection piece on RML&amp;rsquo;s recent pilot project conducted in partnership with &lt;a href=&#34;https://kidshelpphone.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kids Help Phone&lt;/a&gt; — exploring the development of an agentic AI framework for training frontline support workers.&lt;/p&gt;
+&lt;p&gt;The piece offers a youth perspective on how AI-assisted training tools could improve the consistency and quality of mental health support for young people. Read the full reflection: &lt;a href=&#34;https://www.longwoods.com/content/27829/insights/one-session-infinite-support-a-youth-perspective-on-mental-health-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&amp;ldquo;One Session, Infinite Support: A Youth Perspective on Mental Health Research&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RML at IEEE ISBI 2025</title>
+      <link>http://localhost:1313/news/isbi-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/isbi-2025/</guid>
+      <description>&lt;p&gt;RML will be presenting at the &lt;strong&gt;&lt;a href=&#34;https://biomedicalimaging.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Symposium on Biomedical Imaging (ISBI) 2025&lt;/a&gt;&lt;/strong&gt;, showcasing the latest progress on AI-guided neonatal cardiac ultrasound analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;em&gt;Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification&lt;/em&gt;
+S. French, F. Zhu, A. Jain, N. Khan&lt;/p&gt;
+&lt;p&gt;The work introduces a novel temporal feature weaving approach for automatically classifying echocardiographic viewpoints in neonatal ultrasound video, a critical step toward fully automated cardiac assessment in the NICU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DynaGuide: A Generalizable Dynamic Guidance Framework for Zero-Shot Guided Unsupervised Semantic Segmentation</title>
+      <link>http://localhost:1313/publications/guermazi-2025-dynaguide/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/guermazi-2025-dynaguide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Example Project Title</title>
-      <link>http://localhost:1313/projects/example-project/</link>
+      <title>Enhanced Cross-Dataset Electroencephalogram-Based Emotion Recognition Using Unsupervised Domain Adaptation</title>
+      <link>http://localhost:1313/publications/imtiaz-2025-enhanced/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/imtiaz-2025-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Database and Cross-Channel Electrocardiogram Arrhythmia Heartbeat Classification Based on Unsupervised Domain Adaptation</title>
+      <link>http://localhost:1313/publications/imtiaz-2024-cross/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/example-project/</guid>
+      <guid>http://localhost:1313/publications/imtiaz-2024-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel Stress Assessment from ECG in a Virtual Reality Environment Using Multimodal Fusion</title>
+      <link>http://localhost:1313/publications/ahmad-2023-multilevel/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ahmad-2023-multilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Frontiers in Research Fund Award: Therapeutic VR for Children on the Spectrum</title>
+      <link>http://localhost:1313/news/nfrf-therapeutic-games-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nfrf-therapeutic-games-2022/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$250,000 New Frontiers in Research Fund (NFRF) Exploration Award&lt;/strong&gt; to develop dynamic therapeutic VR experiences for children on the autism spectrum.&lt;/p&gt;
+&lt;p&gt;The project is a collaboration with &lt;a href=&#34;https://wellwave.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wellwave Inc.&lt;/a&gt; and the &lt;a href=&#34;https://hollandbloorview.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holland Bloorview Kids Rehabilitation Hospital&lt;/a&gt; — Canada&amp;rsquo;s largest children&amp;rsquo;s rehabilitation hospital. The research will focus on creating adaptive, personalized VR interventions that respond to real-time physiological and behavioural sensing to maximize therapeutic benefit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Paper Runner-Up at CVPR 2021 Workshop</title>
+      <link>http://localhost:1313/news/best-paper-cvpr-2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/best-paper-cvpr-2021/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;strong&gt;Julian True&lt;/strong&gt;! His paper &lt;a href=&#34;http://localhost:1313/publications/true-2023-motion/&#34;&gt;&lt;em&gt;&amp;ldquo;Motion Vector Extrapolation for Video Object Detection&amp;rdquo;&lt;/em&gt;&lt;/a&gt; won the &lt;strong&gt;Best Paper Runner-Up Award&lt;/strong&gt; at the CVPR 2021 Robust Video Understanding Workshop.&lt;/p&gt;
+&lt;p&gt;The paper demonstrates that leveraging motion vectors from compressed video can decrease object detection latency by up to &lt;strong&gt;25×&lt;/strong&gt; while maintaining detection accuracy — a significant advance for real-time video understanding on resource-constrained devices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal Affective Computing</title>
+      <link>http://localhost:1313/projects/stress-assessment/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stress-assessment/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Describe the project here. What problem does it address? What methods are used?&lt;/p&gt;
+&lt;p&gt;Collaborating with Shaftesbury (now Wellwave Inc.), we will develop a machine learning model for mutlimodal assessment of stress. The multimodal sensors can be physiological (e.g. EEG, heart-rate) and behavioural (e.g. facial expressions). The target is to use the assessed stress for Shaftesbury&amp;rsquo;s Positive Distraction Entertainment System which adapts game content dynamically to reduce stress in children before a complex medical procedure, which can reduce complexity and recovery time.&lt;/p&gt;
 &lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;NSERC Discovery Grant (if applicable)&lt;/li&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $450K&lt;/li&gt;
+&lt;li&gt;NSERC Alliance + Mitacs Accelerate Grant - $488K&lt;/li&gt;
+&lt;li&gt;New Frontiers in Research Fund - Exploration - $250K&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Frontiers in Research Fund Award: De-escalation VR Training for Emergency Responders</title>
+      <link>http://localhost:1313/news/nfrf-deescalation-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nfrf-deescalation-2021/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$250,000 New Frontiers in Research Fund (NFRF) Exploration Award&lt;/strong&gt; to develop a virtual reality de-escalation training platform for Canada&amp;rsquo;s emergency responders.&lt;/p&gt;
+&lt;p&gt;In partnership with the &lt;strong&gt;Ontario Provincial Police&lt;/strong&gt;, the project will create adaptive scenario-based VR training experiences using multimodal sensing to dynamically respond to trainee behaviour in real time. The interdisciplinary team includes:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Naimul Mefraz Khan (PI)&lt;/li&gt;
-&lt;li&gt;Student Name (PhD)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Natalie Alvarez&lt;/strong&gt; (School of Performing Arts) — narrative design and embodied learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Jennifer Lavoie&lt;/strong&gt; (Criminology, Wilfrid Laurier University) — crisis intervention expertise&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Alliance Grant: Therapeutic VR Games for Children</title>
+      <link>http://localhost:1313/news/nserc-alliance-wellwave-2021/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-wellwave-2021/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$400,000 NSERC Alliance Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://wellwave.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wellwave Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project will focus on developing therapeutic virtual reality games with integrated multimodal stress assessment for children. By continuously sensing physiological and behavioural responses, the system adapts game content in real time to support stress regulation and therapeutic outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RML at IEEE EMBC 2020</title>
+      <link>http://localhost:1313/news/embc-2020/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/embc-2020/</guid>
+      <description>&lt;p&gt;RML members will present two papers at the &lt;strong&gt;42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Both papers report the latest results from the lab&amp;rsquo;s ongoing collaboration with Shaftesbury Inc., focusing on stress assessment from multimodal physiological sensors using machine learning. The work explores fusion of ECG, EEG, and behavioural signals to build robust, real-time stress classifiers for VR-based therapeutic applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Alliance Grant: AI-Guided Neonatal Ultrasound Diagnosis and Training</title>
+      <link>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</guid>
+      <description>&lt;p&gt;Dr. Ling Guan, Dr. Naimul Khan, and Dr. Karthi Umapathy have been awarded a &lt;strong&gt;$669,000 NSERC Alliance Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://dapasoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dapasoft Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project will develop interpretable machine learning algorithms for computer-aided diagnosis of neonatal lung and heart diseases. Mount Sinai Hospital&amp;rsquo;s Neonatal Intensive Care Unit — the &lt;strong&gt;largest NICU in Canada&lt;/strong&gt; — relies on point-of-care ultrasound (POCUS) as the primary imaging modality for cardiac and pulmonary disease diagnosis in neonates. Operating POCUS on neonates requires a highly specialized skillset, and the project will additionally develop &lt;strong&gt;AI-guided training tools&lt;/strong&gt; to accelerate proficiency development for new ultrasound technologists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: Cloud-based Stress and Engagement Assessment in VR</title>
+      <link>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan (principal investigator), Dr. Ling Guan, and Dr. Sridhar Krishnan have received a &lt;strong&gt;$450,000 NSERC Collaborative Research and Development Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://shaftesbury.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaftesbury Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project, titled &lt;em&gt;&amp;ldquo;Cloud-based Machine Learning Framework for Assessment of Stress/Engagement Through Multimodal Sensors&amp;rdquo;&lt;/em&gt;, will develop machine learning and signal processing algorithms to assess stress and engagement levels within VR applications. The assessment results will be used to dynamically adjust game content in real time — with applications in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical settings&lt;/strong&gt;: non-pharmacological anxiety reduction before surgery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entertainment&lt;/strong&gt;: dynamic content adaptation for personalized gaming experiences&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Point-of-Care Ultrasound Analysis and Training</title>
+      <link>http://localhost:1313/projects/pocus/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pocus/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In collaboration with Dapasoft Inc. and Mount Sinai Hospital&amp;rsquo;s Neonatal Intensive Care Unit (Canada&amp;rsquo;s largest NICU), this project develops interpretable machine learning algorithms for computer-aided diagnosis of neonatal lung and heart diseases. Point-of-care ultrasound (POCUS) is the primary imaging modality for cardiac and pulmonary disease diagnosis in neonates, and this project also creates AI-guided training tools to help ultrasound technologists build proficiency faster and more reliably.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dapasoft Inc.&lt;/li&gt;
+&lt;li&gt;Mount Sinai Hospital — Neonatal Intensive Care Unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Scene Understanding for Mobile Augmented Reality</title>
+      <link>http://localhost:1313/projects/scene-understanding/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/scene-understanding/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This project develops machine learning algorithms for 3D object recognition using point cloud data captured from ARKit and ARCore frameworks, enabling intelligent scene understanding and collaborative augmented reality experiences on mobile devices. In partnership with AWE Company, the work targets real-world AR applications that can semantically understand their environment in real time.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AWE Company&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Novel Focal Tversky Loss Function with Improved Attention U-Net for Lesion Segmentation</title>
+      <link>http://localhost:1313/publications/abraham-2019-focal/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/abraham-2019-focal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: IoT Signals for Medical Emergency Decision-Making</title>
+      <link>http://localhost:1313/news/nserc-crd-dapasoft-2019/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-dapasoft-2019/</guid>
+      <description>&lt;p&gt;Dr. Ling Guan and Dr. Naimul Khan have been awarded a $300,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://dapasoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dapasoft Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This two-year project will develop new information processing tools and techniques to enhance emergency medical services. The system will utilize IoT sensors to continuously record patient symptoms, with machine learning analysis and immersive context-aware visualization methods to assist healthcare professionals in timely diagnosis and decision-making in emergency situations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: Intelligent Scene Understanding for Mobile AR</title>
+      <link>http://localhost:1313/news/nserc-crd-awe-2019/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-awe-2019/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a $90,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://www.awexr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWE Company Ltd.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This one-year project will develop machine learning algorithms that leverage point cloud data from modern mobile AR libraries (ARKit/ARCore) to provide intelligent 3D scene understanding. The resulting scene understanding capabilities will further enable &lt;strong&gt;collaborative augmented reality experiences&lt;/strong&gt; between multiple users sharing the same physical space.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/de-escalation/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/de-escalation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/dova-health/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dova-health/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/kids-help-phone/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kids-help-phone/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/quantomics/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantomics/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Analysis and Visualization of IoT Signals for Medical Emergency</title>
+      <link>http://localhost:1313/projects/sinai-iot/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sinai-iot/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In collaboration with Dapasoft Inc., this project develops new information processing tools and techniques to enhance emergency medical services. The system utilizes various IoT sensors to record patient symptoms, analyzes the data with machine learning, and presents results through immersive context-aware visualization methods — helping healthcare professionals perform timely decision-making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dapasoft Inc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) — $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Engage Grant: Multimodal Stress Assessment for Pediatric VR</title>
+      <link>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a $25,000 NSERC Engage grant in partnership with &lt;a href=&#34;https://shaftesbury.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaftesbury VR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project will develop a multimodal stress assessment algorithm to be integrated into Shaftesbury&amp;rsquo;s &lt;strong&gt;Positive Distraction Entertainment System&lt;/strong&gt; — a platform designed to dynamically adapt VR game content to reduce anxiety in children preparing for medical procedures. By fusing physiological and behavioural signals, the system aims to provide a non-pharmacological approach to pre-procedural anxiety reduction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud-based Multimodal Biometrics Framework for Road Safety</title>
+      <link>http://localhost:1313/projects/road-safety/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/road-safety/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In partnership with Alcohol Countermeasure Systems, this project develops a novel cloud-based multimodal biometrics framework for continuous driver authentication and real-time drowsiness detection. By combining multiple physiological and behavioral signals, the system aims to significantly enhance road safety by identifying impaired or fatigued drivers before accidents occur.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alcohol Countermeasure Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Paper Award at IEEE ISM 2017</title>
+      <link>http://localhost:1313/news/best-paper-ism-2017/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/best-paper-ism-2017/</guid>
+      <description>&lt;p&gt;Congratulations to Randy Tan! His paper on real-time human activity analysis won the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at the &lt;a href=&#34;https://www.ieeesmc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Symposium on Multimedia (ISM) 2017&lt;/a&gt;, Workshop on Quality of Experience in Visual Media Processing and Transmission.&lt;/p&gt;
+&lt;p&gt;The work demonstrates a real-time system for recognizing and analyzing human activities from video, with applications in surveillance, healthcare monitoring, and interactive media.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: 3D Object Recognition for Museum Exhibits</title>
+      <link>http://localhost:1313/news/nserc-crd-simentit-2017/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-simentit-2017/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan, Dr. Ling Guan, and Dr. Andy Ye have been awarded a $375,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://simentit.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimentIT Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This two-year project will develop novel 3D object recognition and tracking algorithms for museum augmented reality exhibits. The technology will be deployed at the newly renovated &lt;a href=&#34;https://ingeniumcanada.org/sciencetech&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canada Science and Technology Museum&lt;/a&gt; in Ottawa, enabling visitors to experience interactive AR overlays on physical artifacts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality Framework for Museum Exhibits</title>
+      <link>http://localhost:1313/projects/museum-ar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/museum-ar/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In partnership with SimentIT and the Canadian Science and Technology Museum (CSTM) in Ottawa, this project developed a cloud-based mobile augmented reality platform for museum exhibits. The system enables real-time 3D object recognition and pose estimation under challenging and variable museum lighting conditions. The technology was deployed in CSTM&amp;rsquo;s &amp;ldquo;Artifact Alley&amp;rdquo;, where visitors experience a barrier-free and natural AR experience overlaid on physical artifacts.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SimentIT&lt;/li&gt;
+&lt;li&gt;Canadian Science and Technology Museum (CSTM), Ottawa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) — $450K&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

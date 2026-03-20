@@ -1,0 +1,13 @@
+name:
+  display: "Md Niaz Imtiaz"
+  given: "Md Niaz"
+  family: "Imtiaz"
+
+role: "Post-Doctoral Fellow"
+
+bio: "Recently completed his PhD with Dr. Khan. Expert in physiological signal analysis and unsupervised domain adaptation, with a focus on cross-dataset generalization for ECG and EEG-based applications."
+
+user_groups:
+  - Post-Doctoral Fellows
+
+weight: 30

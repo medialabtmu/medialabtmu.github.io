@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultural Heritage | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/cultural-heritage/</link>
+      <atom:link href="http://localhost:1313/tags/cultural-heritage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cultural Heritage</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Cultural Heritage</title>
+      <link>http://localhost:1313/tags/cultural-heritage/</link>
+    </image>
+    
+    <item>
+      <title>Augmented Reality Framework for Museum Exhibits</title>
+      <link>http://localhost:1313/projects/museum-ar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/museum-ar/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In partnership with SimentIT and the Canadian Science and Technology Museum (CSTM) in Ottawa, this project developed a cloud-based mobile augmented reality platform for museum exhibits. The system enables real-time 3D object recognition and pose estimation under challenging and variable museum lighting conditions. The technology was deployed in CSTM&amp;rsquo;s &amp;ldquo;Artifact Alley&amp;rdquo;, where visitors experience a barrier-free and natural AR experience overlaid on physical artifacts.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SimentIT&lt;/li&gt;
+&lt;li&gt;Canadian Science and Technology Museum (CSTM), Ottawa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) — $450K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

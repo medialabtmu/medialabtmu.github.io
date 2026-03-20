@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/conference/</link>
+      <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Best Paper Award at IEEE ISM 2017</title>
+      <link>http://localhost:1313/news/best-paper-ism-2017/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/best-paper-ism-2017/</guid>
+      <description>&lt;p&gt;Congratulations to Randy Tan! His paper on real-time human activity analysis won the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at the &lt;a href=&#34;https://www.ieeesmc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Symposium on Multimedia (ISM) 2017&lt;/a&gt;, Workshop on Quality of Experience in Visual Media Processing and Transmission.&lt;/p&gt;
+&lt;p&gt;The work demonstrates a real-time system for recognizing and analyzing human activities from video, with applications in surveillance, healthcare monitoring, and interactive media.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

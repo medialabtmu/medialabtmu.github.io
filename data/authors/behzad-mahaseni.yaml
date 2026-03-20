@@ -1,0 +1,13 @@
+name:
+  display: "Behzad Mahaseni"
+  given: "Behzad"
+  family: "Mahaseni"
+
+role: "PhD Student"
+
+bio: "Research focuses on multimodal emotion recognition under missing modality conditions, developing robust fusion strategies for physiological and behavioural signals."
+
+user_groups:
+  - Graduate Students
+
+weight: 20

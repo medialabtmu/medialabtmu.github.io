@@ -1,0 +1,13 @@
+name:
+  display: "Yasaman Ahmadiadli"
+  given: "Yasaman"
+  family: "Ahmadiadli"
+
+role: "PhD Student"
+
+bio: "Research focuses on deepfake audio detection using generalizable deep learning approaches. Also contributing to an industry project with Wellwave Inc. on therapeutic applications of AI."
+
+user_groups:
+  - Graduate Students
+
+weight: 50

@@ -1,0 +1,13 @@
+name:
+  display: "Randy Tan"
+  given: "Randy"
+  family: "Tan"
+
+role: "Post-Doctoral Fellow"
+
+bio: "Completed his PhD with Dr. Khan on explainable AI. Currently leads the DOVA Health NSERC Alliance project, focusing on AI-based bowel ultrasound analysis for gastrointestinal disease assessment."
+
+user_groups:
+  - Post-Doctoral Fellows
+
+weight: 20

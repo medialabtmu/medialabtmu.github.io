@@ -1,0 +1,16 @@
+{{/* Search for `*featured*` or `*avatar*` in page folder, then fall back to front matter */}}
+
+{{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+{{ if eq $resource nil }}
+  {{ $resource = (.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ end }}
+{{ if eq $resource nil }}
+  {{ $filename := "" }}
+  {{ if and .Params.image (reflect.IsMap .Params.image) }}
+    {{ $filename = .Params.image.filename }}
+  {{ end }}
+  {{ $resource = (.Resources.ByType "image").GetMatch $filename }}
+  {{ if eq $resource nil }} {{ $resource = resources.GetMatch (path.Join "media" $filename) }} {{ end }}
+{{ end }}
+
+{{ return $resource }}

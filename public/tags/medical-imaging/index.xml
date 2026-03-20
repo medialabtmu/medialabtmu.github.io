@@ -5,19 +5,30 @@
     <link>http://localhost:1313/tags/medical-imaging/</link>
       <atom:link href="http://localhost:1313/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical Imaging</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Medical Imaging</title>
       <link>http://localhost:1313/tags/medical-imaging/</link>
     </image>
     
     <item>
-      <title>Example Publication Title</title>
-      <link>http://localhost:1313/publications/example-paper/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/example-paper/</guid>
-      <description></description>
+      <title>Point-of-Care Ultrasound Analysis and Training</title>
+      <link>http://localhost:1313/projects/pocus/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pocus/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In collaboration with Dapasoft Inc. and Mount Sinai Hospital&amp;rsquo;s Neonatal Intensive Care Unit (Canada&amp;rsquo;s largest NICU), this project develops interpretable machine learning algorithms for computer-aided diagnosis of neonatal lung and heart diseases. Point-of-care ultrasound (POCUS) is the primary imaging modality for cardiac and pulmonary disease diagnosis in neonates, and this project also creates AI-guided training tools to help ultrasound technologists build proficiency faster and more reliably.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dapasoft Inc.&lt;/li&gt;
+&lt;li&gt;Mount Sinai Hospital — Neonatal Intensive Care Unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

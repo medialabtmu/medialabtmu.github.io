@@ -10,29 +10,111 @@
   <url>
     <loc>http://localhost:1313/people/student-example/</loc></url>
   <url>
+    <loc>http://localhost:1313/tags/affective-computing/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/computer-vision/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/domain-adaptation/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/publications/guermazi-2025-dynaguide/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/eeg/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/emotion-recognition/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/publications/imtiaz-2025-enhanced/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/publications/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/semantic-segmentation/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/unsupervised-learning/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/zero-shot-learning/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://localhost:1313/news/example-post/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/lab-news/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/tags/arrhythmia-classification/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/tags/cardiology/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/publications/example-paper/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/publications/imtiaz-2024-cross/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/medical-imaging/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/publications/</loc><lastmod>2024-01-15T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/projects/example-project/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/tags/ecg/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/publications/ahmad-2023-multilevel/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/multimodal-fusion/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/stress-assessment/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/virtual-reality/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/stress-assessment/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/multimodal-learning/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/signal-processing/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/medical-imaging/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/pocus/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/ultrasound/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/3d-recognition/</loc><lastmod>2019-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/augmented-reality/</loc><lastmod>2019-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/scene-understanding/</loc><lastmod>2019-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/publications/abraham-2019-focal/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/attention-u-net/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/class-imbalance/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/loss-functions/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/medical-image-segmentation/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/de-escalation/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/dova-health/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/kids-help-phone/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/quantomics/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/healthcare/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/sinai-iot/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/iot/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/biometrics/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/road-safety/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/road-safety/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/museum-ar/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/cultural-heritage/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/people/alumni/</loc></url>
   <url>

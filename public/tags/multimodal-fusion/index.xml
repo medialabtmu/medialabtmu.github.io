@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimodal Fusion | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/multimodal-fusion/</link>
+      <atom:link href="http://localhost:1313/tags/multimodal-fusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multimodal Fusion</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Multimodal Fusion</title>
+      <link>http://localhost:1313/tags/multimodal-fusion/</link>
+    </image>
+    
+    <item>
+      <title>Multilevel Stress Assessment from ECG in a Virtual Reality Environment Using Multimodal Fusion</title>
+      <link>http://localhost:1313/publications/ahmad-2023-multilevel/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ahmad-2023-multilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/de-escalation/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/de-escalation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/dova-health/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dova-health/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/kids-help-phone/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kids-help-phone/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mount Sinai IoT project</title>
+      <link>http://localhost:1313/projects/quantomics/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantomics/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

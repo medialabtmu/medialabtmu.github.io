@@ -1,0 +1,18 @@
+name:
+  display: "Muhammad Rehman Zafar"
+  given: "Muhammad Rehman"
+  family: "Zafar"
+
+role: "Post-Doctoral Fellow"
+
+bio: "Leads the Immigration Discourses and Information Observatory (IDIO) project at the Bridging Divides initiative, where he also serves as a cluster lead. Completed his PhD with Dr. Khan specializing in explainable AI — his DLIME paper is widely cited in the interpretable ML community."
+
+user_groups:
+  - Post-Doctoral Fellows
+
+weight: 10
+
+links:
+  - icon: hero/link
+    url: "https://www.torontomu.ca/bridging-divides/research/research-projects/citizenship-and-participation/observatory-on-immigration-discourses/"
+    label: IDIO Project

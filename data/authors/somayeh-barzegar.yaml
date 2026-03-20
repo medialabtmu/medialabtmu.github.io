@@ -1,0 +1,13 @@
+name:
+  display: "Somayeh Barzegar"
+  given: "Somayeh"
+  family: "Barzegar"
+
+role: "PhD Student"
+
+bio: "Research focuses on medical image segmentation under limited pixel-level supervision, developing semi-supervised and weakly supervised approaches for clinical imaging applications."
+
+user_groups:
+  - Graduate Students
+
+weight: 30

@@ -1,0 +1,13 @@
+name:
+  display: "Yashar Mohammadi Kelasi"
+  given: "Yashar"
+  family: "Mohammadi Kelasi"
+
+role: "PhD Student"
+
+bio: "Research focuses on AI-driven cancer staging from medical imaging. Also a Senior Data Analyst at the Canadian Institute for Health Information (CIHI), bringing real-world health data expertise to his research."
+
+user_groups:
+  - Graduate Students
+
+weight: 40

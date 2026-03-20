@@ -2,38 +2,30 @@
 title: Join Us
 ---
 
-The TMU Multimedia Research Laboratory is always looking for motivated
-researchers at all levels. We have openings for postdoctoral fellows,
-PhD students, master's students, and undergraduate research assistants.
+The TMU Multimedia Research Laboratory is always looking for motivated researchers. We work on machine learning, computer vision, multimedia signal processing, and AR/VR — with real-world applications in healthcare and media.
 
-## What We Look For
+## Open Positions
 
-We value curiosity, technical depth, and the ability to work independently
-on open-ended problems. Prior experience in one or more of the following
-areas is helpful but not strictly required: deep learning, computer vision,
-signal processing, medical imaging, natural language processing, or
-physiological computing.
+**PhD**
+Not currently accepting new PhD students.
+
+**MASc (Master of Applied Science)**
+Open to qualified domestic applicants (Canadian citizens or permanent residents). We encourage applications at any time. Candidates must meet the minimum qualifications for the [Electrical and Computer Engineering graduate program](https://www.torontomu.ca/electrical-computer-biomedical/graduate/) at Toronto Metropolitan University.
+
+**Undergraduate Research Assistants**
+We hire several undergraduate RAs each year for industry-partnered initiatives. These positions provide hands-on experience in AI and multimedia signal processing. Applicants must maintain a CGPA of A− or above.
 
 ## How to Apply
 
-If you are interested in joining the lab, please email
-[Dr. Naimul Mefraz Khan](mailto:naimul@torontomu.ca) with the following:
+Email [Dr. Naimul Mefraz Khan](mailto:n77khan@torontomu.ca) with:
 
 1. Your CV or resume
-2. A brief description of your research interests (a few sentences is fine)
-3. Your transcripts (unofficial is acceptable at this stage)
+2. A brief description of your research interests
+3. Unofficial transcripts
 4. Any relevant publications or project links
 
-**Prospective PhD and MASc students** should apply through the
-[TMU ECBE Graduate Program](https://www.torontomu.ca/electrical-computer-biomedical/graduate/)
-and mention the Multimedia Research Laboratory in your application.
-
-**Undergraduate students** interested in NSERC USRA or capstone projects
-should reach out directly by email.
+**MASc applicants** should also apply through the [TMU ECBE Graduate Program](https://www.torontomu.ca/electrical-computer-biomedical/graduate/) and mention the Multimedia Research Laboratory in your statement.
 
 ## Funding
 
-Graduate students in the lab are typically funded through a combination
-of NSERC grants, teaching assistantships, and internal scholarships.
-We encourage strong applicants to apply for external awards such as
-NSERC CGS-M, NSERC CGS-D, OGS, and Vanier.
+Graduate students are typically funded through a combination of NSERC grants, teaching assistantships, and internal scholarships. We strongly encourage strong applicants to apply for external awards including NSERC CGS-M, NSERC CGS-D, OGS, and Vanier.

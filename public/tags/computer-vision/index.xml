@@ -5,28 +5,72 @@
     <link>http://localhost:1313/tags/computer-vision/</link>
       <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Computer Vision</title>
       <link>http://localhost:1313/tags/computer-vision/</link>
     </image>
     
     <item>
-      <title>Example Project Title</title>
-      <link>http://localhost:1313/projects/example-project/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/example-project/</guid>
+      <title>DynaGuide: A Generalizable Dynamic Guidance Framework for Zero-Shot Guided Unsupervised Semantic Segmentation</title>
+      <link>http://localhost:1313/publications/guermazi-2025-dynaguide/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/guermazi-2025-dynaguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Scene Understanding for Mobile Augmented Reality</title>
+      <link>http://localhost:1313/projects/scene-understanding/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/scene-understanding/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Describe the project here. What problem does it address? What methods are used?&lt;/p&gt;
+&lt;p&gt;This project develops machine learning algorithms for 3D object recognition using point cloud data captured from ARKit and ARCore frameworks, enabling intelligent scene understanding and collaborative augmented reality experiences on mobile devices. In partnership with AWE Company, the work targets real-world AR applications that can semantically understand their environment in real time.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AWE Company&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;NSERC Discovery Grant (if applicable)&lt;/li&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud-based Multimodal Biometrics Framework for Road Safety</title>
+      <link>http://localhost:1313/projects/road-safety/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/road-safety/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In partnership with Alcohol Countermeasure Systems, this project develops a novel cloud-based multimodal biometrics framework for continuous driver authentication and real-time drowsiness detection. By combining multiple physiological and behavioral signals, the system aims to significantly enhance road safety by identifying impaired or fatigued drivers before accidents occur.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Naimul Mefraz Khan (PI)&lt;/li&gt;
-&lt;li&gt;Student Name (PhD)&lt;/li&gt;
+&lt;li&gt;Alcohol Countermeasure Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Augmented Reality Framework for Museum Exhibits</title>
+      <link>http://localhost:1313/projects/museum-ar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/museum-ar/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In partnership with SimentIT and the Canadian Science and Technology Museum (CSTM) in Ottawa, this project developed a cloud-based mobile augmented reality platform for museum exhibits. The system enables real-time 3D object recognition and pose estimation under challenging and variable museum lighting conditions. The technology was deployed in CSTM&amp;rsquo;s &amp;ldquo;Artifact Alley&amp;rdquo;, where visitors experience a barrier-free and natural AR experience overlaid on physical artifacts.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SimentIT&lt;/li&gt;
+&lt;li&gt;Canadian Science and Technology Museum (CSTM), Ottawa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) — $450K&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

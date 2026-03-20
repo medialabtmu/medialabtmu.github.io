@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stress Assessment | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/stress-assessment/</link>
+      <atom:link href="http://localhost:1313/tags/stress-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stress Assessment</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Stress Assessment</title>
+      <link>http://localhost:1313/tags/stress-assessment/</link>
+    </image>
+    
+    <item>
+      <title>Multilevel Stress Assessment from ECG in a Virtual Reality Environment Using Multimodal Fusion</title>
+      <link>http://localhost:1313/publications/ahmad-2023-multilevel/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/ahmad-2023-multilevel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+name:
+  display: "Naimul Mefraz Khan"
+  given: "Naimul"
+  family: "Khan"
+
+role: "Associate Professor & Lab Director"
+
+bio: "Associate Professor and Director of the Multimedia Research Laboratory at Toronto Metropolitan University. Research spans multimedia signal processing, machine learning, and AR/VR with applications in healthcare and mental health."
+
+user_groups:
+  - Principal Investigator
+
+weight: 1
+
+links:
+  - icon: hero/envelope
+    url: "mailto:n77khan@torontomu.ca"
+    label: Email
+  - icon: brands/google-scholar
+    url: "https://scholar.google.ca/citations?user=EJuUWlkAAAAJ&hl=en"
+    label: Google Scholar
+  - icon: brands/twitter
+    url: "https://twitter.com/naimulkhan"
+    label: Twitter

@@ -1,0 +1,99 @@
+{{ $block := .wcBlock }}
+{{ $id := printf "carousel-%s" (md5 (printf "%v" $block)) }}
+
+{{ $images := slice }}
+{{ range $block.content.images }}
+  {{ $img := resources.GetMatch (printf "media/gallery/%s" .) }}
+  {{ if $img }}
+    {{ $processed := $img.Fit "1600x700 Center webp" }}
+    {{ $images = $images | append $processed }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $images) 0 }}
+<div class="relative w-full overflow-hidden" style="height: 480px;" id="{{ $id }}">
+
+  {{/* Slides */}}
+  {{ range $i, $img := $images }}
+  <div class="carousel-slide absolute inset-0 transition-opacity duration-700 ease-in-out {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}"
+       data-index="{{ $i }}">
+    <img src="{{ $img.RelPermalink }}"
+         width="{{ $img.Width }}" height="{{ $img.Height }}"
+         class="w-full h-full object-cover"
+         alt="{{ printf "Lab photo %d" (add $i 1) }}"
+         {{ if eq $i 0 }}fetchpriority="high"{{ else }}loading="lazy"{{ end }}>
+  </div>
+  {{ end }}
+
+  {{/* Overlay gradient so text above it stays readable */}}
+  <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/30 pointer-events-none"></div>
+
+  {{ if gt (len $images) 1 }}
+  {{/* Prev / Next arrows */}}
+  <button onclick="carouselPrev('{{ $id }}')"
+          class="absolute left-4 top-1/2 -translate-y-1/2 z-10 bg-black/40 hover:bg-black/60 text-white rounded-full p-2 transition-colors"
+          aria-label="Previous">
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+    </svg>
+  </button>
+  <button onclick="carouselNext('{{ $id }}')"
+          class="absolute right-4 top-1/2 -translate-y-1/2 z-10 bg-black/40 hover:bg-black/60 text-white rounded-full p-2 transition-colors"
+          aria-label="Next">
+    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+    </svg>
+  </button>
+
+  {{/* Dot indicators */}}
+  <div class="absolute bottom-4 left-1/2 -translate-x-1/2 z-10 flex gap-2">
+    {{ range $i, $_ := $images }}
+    <button onclick="carouselGoTo('{{ $id }}', {{ $i }})"
+            class="carousel-dot w-2.5 h-2.5 rounded-full transition-colors {{ if eq $i 0 }}bg-white{{ else }}bg-white/40{{ end }}"
+            aria-label="{{ printf "Slide %d" (add $i 1) }}">
+    </button>
+    {{ end }}
+  </div>
+  {{ end }}
+
+</div>
+
+<script>
+(function() {
+  var carousels = {};
+
+  function init(id) {
+    if (carousels[id]) return;
+    carousels[id] = { current: 0, total: document.querySelectorAll('#' + id + ' .carousel-slide').length };
+    if (carousels[id].total > 1) {
+      carousels[id].timer = setInterval(function() { carouselNext(id); }, {{ $block.content.interval | default 5000 }});
+      document.getElementById(id).addEventListener('mouseenter', function() { clearInterval(carousels[id].timer); });
+      document.getElementById(id).addEventListener('mouseleave', function() {
+        carousels[id].timer = setInterval(function() { carouselNext(id); }, {{ $block.content.interval | default 5000 }});
+      });
+    }
+  }
+
+  window.carouselGoTo = function(id, n) {
+    var c = carousels[id];
+    if (!c) return;
+    var slides = document.querySelectorAll('#' + id + ' .carousel-slide');
+    var dots   = document.querySelectorAll('#' + id + ' .carousel-dot');
+    slides[c.current].classList.replace('opacity-100', 'opacity-0');
+    if (dots[c.current]) { dots[c.current].classList.replace('bg-white', 'bg-white/40'); }
+    c.current = (n + c.total) % c.total;
+    slides[c.current].classList.replace('opacity-0', 'opacity-100');
+    if (dots[c.current]) { dots[c.current].classList.replace('bg-white/40', 'bg-white'); }
+  };
+
+  window.carouselNext = function(id) { var c = carousels[id]; if (c) carouselGoTo(id, c.current + 1); };
+  window.carouselPrev = function(id) { var c = carousels[id]; if (c) carouselGoTo(id, c.current - 1); };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() { init('{{ $id }}'); });
+  } else {
+    init('{{ $id }}');
+  }
+})();
+</script>
+{{ end }}

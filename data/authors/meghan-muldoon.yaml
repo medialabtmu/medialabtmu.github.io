@@ -1,0 +1,13 @@
+name:
+  display: "Meghan Muldoon"
+  given: "Meghan"
+  family: "Muldoon"
+
+role: "PhD Student"
+
+bio: "Research focuses on automated volume estimation of patent ductus arteriosus (PDA) from Doppler ultrasound, with applications in neonatal cardiac assessment."
+
+user_groups:
+  - Graduate Students
+
+weight: 10

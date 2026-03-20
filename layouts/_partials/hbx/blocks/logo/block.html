@@ -1,0 +1,14 @@
+{{ $block := .wcBlock }}
+{{ $filename := $block.content.file | default "logo.png" }}
+{{ $img := resources.GetMatch $filename }}
+
+{{ with $img }}
+{{ $height := $block.content.height | default 120 }}
+{{ $processed := .Fit (printf "600x%d" $height) }}
+<div class="flex justify-center items-center py-8">
+  <img src="{{ $processed.RelPermalink }}"
+       width="{{ $processed.Width }}" height="{{ $processed.Height }}"
+       alt="{{ $block.content.alt | default "Lab logo" }}"
+       class="object-contain">
+</div>
+{{ end }}

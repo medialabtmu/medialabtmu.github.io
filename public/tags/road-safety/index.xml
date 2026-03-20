@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Road Safety | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/road-safety/</link>
+      <atom:link href="http://localhost:1313/tags/road-safety/index.xml" rel="self" type="application/rss+xml" />
+    <description>Road Safety</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Road Safety</title>
+      <link>http://localhost:1313/tags/road-safety/</link>
+    </image>
+    
+    <item>
+      <title>Cloud-based Multimodal Biometrics Framework for Road Safety</title>
+      <link>http://localhost:1313/projects/road-safety/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/road-safety/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In partnership with Alcohol Countermeasure Systems, this project develops a novel cloud-based multimodal biometrics framework for continuous driver authentication and real-time drowsiness detection. By combining multiple physiological and behavioral signals, the system aims to significantly enhance road safety by identifying impaired or fatigued drivers before accidents occur.&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alcohol Countermeasure Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
