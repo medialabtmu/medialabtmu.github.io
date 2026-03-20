@@ -5,12 +5,22 @@
     <link>http://localhost:1313/tags/nfrf/</link>
       <atom:link href="http://localhost:1313/tags/nfrf/index.xml" rel="self" type="application/rss+xml" />
     <description>NFRF</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>NFRF</title>
       <link>http://localhost:1313/tags/nfrf/</link>
     </image>
+    
+    <item>
+      <title>New Frontiers in Research Fund Award: Therapeutic VR for Children on the Spectrum</title>
+      <link>http://localhost:1313/news/nfrf-therapeutic-games-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nfrf-therapeutic-games-2022/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$250,000 New Frontiers in Research Fund (NFRF) Exploration Award&lt;/strong&gt; to develop dynamic therapeutic VR experiences for children on the autism spectrum.&lt;/p&gt;
+&lt;p&gt;The project is a collaboration with &lt;a href=&#34;https://wellwave.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wellwave Inc.&lt;/a&gt; and the &lt;a href=&#34;https://hollandbloorview.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Holland Bloorview Kids Rehabilitation Hospital&lt;/a&gt; — Canada&amp;rsquo;s largest children&amp;rsquo;s rehabilitation hospital. The research will focus on creating adaptive, personalized VR interventions that respond to real-time physiological and behavioural sensing to maximize therapeutic benefit.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Frontiers in Research Fund Award: De-escalation VR Training for Emergency Responders</title>

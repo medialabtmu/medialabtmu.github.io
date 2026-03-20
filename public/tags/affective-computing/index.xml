@@ -44,5 +44,49 @@
 </description>
     </item>
     
+    <item>
+      <title>NSERC Alliance Grant: Therapeutic VR Games for Children</title>
+      <link>http://localhost:1313/news/nserc-alliance-wellwave-2021/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-wellwave-2021/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$400,000 NSERC Alliance Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://wellwave.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wellwave Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project will focus on developing therapeutic virtual reality games with integrated multimodal stress assessment for children. By continuously sensing physiological and behavioural responses, the system adapts game content in real time to support stress regulation and therapeutic outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RML at IEEE EMBC 2020</title>
+      <link>http://localhost:1313/news/embc-2020/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/embc-2020/</guid>
+      <description>&lt;p&gt;RML members will present two papers at the &lt;strong&gt;42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Both papers report the latest results from the lab&amp;rsquo;s ongoing collaboration with Shaftesbury Inc., focusing on stress assessment from multimodal physiological sensors using machine learning. The work explores fusion of ECG, EEG, and behavioural signals to build robust, real-time stress classifiers for VR-based therapeutic applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: Cloud-based Stress and Engagement Assessment in VR</title>
+      <link>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan (principal investigator), Dr. Ling Guan, and Dr. Sridhar Krishnan have received a &lt;strong&gt;$450,000 NSERC Collaborative Research and Development Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://shaftesbury.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaftesbury Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project, titled &lt;em&gt;&amp;ldquo;Cloud-based Machine Learning Framework for Assessment of Stress/Engagement Through Multimodal Sensors&amp;rdquo;&lt;/em&gt;, will develop machine learning and signal processing algorithms to assess stress and engagement levels within VR applications. The assessment results will be used to dynamically adjust game content in real time — with applications in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical settings&lt;/strong&gt;: non-pharmacological anxiety reduction before surgery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entertainment&lt;/strong&gt;: dynamic content adaptation for personalized gaming experiences&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Engage Grant: Multimodal Stress Assessment for Pediatric VR</title>
+      <link>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a $25,000 NSERC Engage grant in partnership with &lt;a href=&#34;https://shaftesbury.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaftesbury VR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project will develop a multimodal stress assessment algorithm to be integrated into Shaftesbury&amp;rsquo;s &lt;strong&gt;Positive Distraction Entertainment System&lt;/strong&gt; — a platform designed to dynamically adapt VR game content to reduce anxiety in children preparing for medical procedures. By fusing physiological and behavioural signals, the system aims to provide a non-pharmacological approach to pre-procedural anxiety reduction.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

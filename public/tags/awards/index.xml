@@ -5,12 +5,22 @@
     <link>http://localhost:1313/tags/awards/</link>
       <atom:link href="http://localhost:1313/tags/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Awards</title>
       <link>http://localhost:1313/tags/awards/</link>
     </image>
+    
+    <item>
+      <title>Best Paper Runner-Up at CVPR 2021 Workshop</title>
+      <link>http://localhost:1313/news/best-paper-cvpr-2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/best-paper-cvpr-2021/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;strong&gt;Julian True&lt;/strong&gt;! His paper &lt;a href=&#34;http://localhost:1313/publications/true-2023-motion/&#34;&gt;&lt;em&gt;&amp;ldquo;Motion Vector Extrapolation for Video Object Detection&amp;rdquo;&lt;/em&gt;&lt;/a&gt; won the &lt;strong&gt;Best Paper Runner-Up Award&lt;/strong&gt; at the CVPR 2021 Robust Video Understanding Workshop.&lt;/p&gt;
+&lt;p&gt;The paper demonstrates that leveraging motion vectors from compressed video can decrease object detection latency by up to &lt;strong&gt;25×&lt;/strong&gt; while maintaining detection accuracy — a significant advance for real-time video understanding on resource-constrained devices.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best Paper Award at IEEE ISM 2017</title>

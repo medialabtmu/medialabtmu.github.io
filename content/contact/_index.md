@@ -18,10 +18,10 @@ Canada
 For general inquiries about the lab, prospective students, or collaboration
 opportunities, please contact:
 
-**Dr. Naimul Mefraz Khan**
+**Dr. Naimul Khan**
 Associate Professor, Department of Electrical, Computer, and Biomedical Engineering
 Director, Multimedia Research Laboratory
-Email: [naimul@torontomu.ca](mailto:naimul@torontomu.ca)
+Email: [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca)
 
 <!--
 If you want an embedded Google Map, use:

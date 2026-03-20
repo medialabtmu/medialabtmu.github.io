@@ -5,12 +5,76 @@
     <link>http://localhost:1313/tags/nserc/</link>
       <atom:link href="http://localhost:1313/tags/nserc/index.xml" rel="self" type="application/rss+xml" />
     <description>NSERC</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>NSERC</title>
       <link>http://localhost:1313/tags/nserc/</link>
     </image>
+    
+    <item>
+      <title>NSERC Alliance Grant: Therapeutic VR Games for Children</title>
+      <link>http://localhost:1313/news/nserc-alliance-wellwave-2021/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-wellwave-2021/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a &lt;strong&gt;$400,000 NSERC Alliance Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://wellwave.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wellwave Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project will focus on developing therapeutic virtual reality games with integrated multimodal stress assessment for children. By continuously sensing physiological and behavioural responses, the system adapts game content in real time to support stress regulation and therapeutic outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Alliance Grant: AI-Guided Neonatal Ultrasound Diagnosis and Training</title>
+      <link>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</guid>
+      <description>&lt;p&gt;Dr. Ling Guan, Dr. Naimul Khan, and Dr. Karthi Umapathy have been awarded a &lt;strong&gt;$669,000 NSERC Alliance Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://dapasoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dapasoft Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project will develop interpretable machine learning algorithms for computer-aided diagnosis of neonatal lung and heart diseases. Mount Sinai Hospital&amp;rsquo;s Neonatal Intensive Care Unit — the &lt;strong&gt;largest NICU in Canada&lt;/strong&gt; — relies on point-of-care ultrasound (POCUS) as the primary imaging modality for cardiac and pulmonary disease diagnosis in neonates. Operating POCUS on neonates requires a highly specialized skillset, and the project will additionally develop &lt;strong&gt;AI-guided training tools&lt;/strong&gt; to accelerate proficiency development for new ultrasound technologists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: Cloud-based Stress and Engagement Assessment in VR</title>
+      <link>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan (principal investigator), Dr. Ling Guan, and Dr. Sridhar Krishnan have received a &lt;strong&gt;$450,000 NSERC Collaborative Research and Development Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://shaftesbury.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaftesbury Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project, titled &lt;em&gt;&amp;ldquo;Cloud-based Machine Learning Framework for Assessment of Stress/Engagement Through Multimodal Sensors&amp;rdquo;&lt;/em&gt;, will develop machine learning and signal processing algorithms to assess stress and engagement levels within VR applications. The assessment results will be used to dynamically adjust game content in real time — with applications in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical settings&lt;/strong&gt;: non-pharmacological anxiety reduction before surgery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entertainment&lt;/strong&gt;: dynamic content adaptation for personalized gaming experiences&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: IoT Signals for Medical Emergency Decision-Making</title>
+      <link>http://localhost:1313/news/nserc-crd-dapasoft-2019/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-dapasoft-2019/</guid>
+      <description>&lt;p&gt;Dr. Ling Guan and Dr. Naimul Khan have been awarded a $300,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://dapasoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dapasoft Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This two-year project will develop new information processing tools and techniques to enhance emergency medical services. The system will utilize IoT sensors to continuously record patient symptoms, with machine learning analysis and immersive context-aware visualization methods to assist healthcare professionals in timely diagnosis and decision-making in emergency situations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: Intelligent Scene Understanding for Mobile AR</title>
+      <link>http://localhost:1313/news/nserc-crd-awe-2019/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-awe-2019/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a $90,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://www.awexr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWE Company Ltd.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This one-year project will develop machine learning algorithms that leverage point cloud data from modern mobile AR libraries (ARKit/ARCore) to provide intelligent 3D scene understanding. The resulting scene understanding capabilities will further enable &lt;strong&gt;collaborative augmented reality experiences&lt;/strong&gt; between multiple users sharing the same physical space.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Engage Grant: Multimodal Stress Assessment for Pediatric VR</title>
+      <link>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a $25,000 NSERC Engage grant in partnership with &lt;a href=&#34;https://shaftesbury.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shaftesbury VR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project will develop a multimodal stress assessment algorithm to be integrated into Shaftesbury&amp;rsquo;s &lt;strong&gt;Positive Distraction Entertainment System&lt;/strong&gt; — a platform designed to dynamically adapt VR game content to reduce anxiety in children preparing for medical procedures. By fusing physiological and behavioural signals, the system aims to provide a non-pharmacological approach to pre-procedural anxiety reduction.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NSERC CRD Award: 3D Object Recognition for Museum Exhibits</title>

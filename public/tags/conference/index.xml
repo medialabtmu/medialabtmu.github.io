@@ -5,12 +5,44 @@
     <link>http://localhost:1313/tags/conference/</link>
       <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Conference</title>
       <link>http://localhost:1313/tags/conference/</link>
     </image>
+    
+    <item>
+      <title>RML at IEEE ISBI 2025</title>
+      <link>http://localhost:1313/news/isbi-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/isbi-2025/</guid>
+      <description>&lt;p&gt;RML will be presenting at the &lt;strong&gt;&lt;a href=&#34;https://biomedicalimaging.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Symposium on Biomedical Imaging (ISBI) 2025&lt;/a&gt;&lt;/strong&gt;, showcasing the latest progress on AI-guided neonatal cardiac ultrasound analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;em&gt;Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification&lt;/em&gt;
+S. French, F. Zhu, A. Jain, N. Khan&lt;/p&gt;
+&lt;p&gt;The work introduces a novel temporal feature weaving approach for automatically classifying echocardiographic viewpoints in neonatal ultrasound video, a critical step toward fully automated cardiac assessment in the NICU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Paper Runner-Up at CVPR 2021 Workshop</title>
+      <link>http://localhost:1313/news/best-paper-cvpr-2021/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/best-paper-cvpr-2021/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;strong&gt;Julian True&lt;/strong&gt;! His paper &lt;a href=&#34;http://localhost:1313/publications/true-2023-motion/&#34;&gt;&lt;em&gt;&amp;ldquo;Motion Vector Extrapolation for Video Object Detection&amp;rdquo;&lt;/em&gt;&lt;/a&gt; won the &lt;strong&gt;Best Paper Runner-Up Award&lt;/strong&gt; at the CVPR 2021 Robust Video Understanding Workshop.&lt;/p&gt;
+&lt;p&gt;The paper demonstrates that leveraging motion vectors from compressed video can decrease object detection latency by up to &lt;strong&gt;25×&lt;/strong&gt; while maintaining detection accuracy — a significant advance for real-time video understanding on resource-constrained devices.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RML at IEEE EMBC 2020</title>
+      <link>http://localhost:1313/news/embc-2020/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/embc-2020/</guid>
+      <description>&lt;p&gt;RML members will present two papers at the &lt;strong&gt;42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2020)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Both papers report the latest results from the lab&amp;rsquo;s ongoing collaboration with Shaftesbury Inc., focusing on stress assessment from multimodal physiological sensors using machine learning. The work explores fusion of ECG, EEG, and behavioural signals to build robust, real-time stress classifiers for VR-based therapeutic applications.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best Paper Award at IEEE ISM 2017</title>

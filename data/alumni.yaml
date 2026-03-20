@@ -7,7 +7,7 @@
 - name: "Zeeshan Ahmad"
   position: "PhD Student"
   active: "2018-2022"
-  affiliation: "Assistant Professor, University of Niagara Falls"
+  affiliation: "Assistant Professor, University of Niagara Falls Canada"
 
 - name: "Boujemaa Guermazi"
   position: "PhD Student"
@@ -18,6 +18,10 @@
   position: "MASc Student"
   active: "2023-2025"
   affiliation: "ML Researcher, Foqus Technologies Inc."
+- name: "Parmiss Kiani"
+  position: "MASc Student"
+  active: "2022-2024"
+  affiliation: "Research Associate, University Health Network"
 
 - name: "Ragavie Pirabaharan"
   position: "MASc Student"
@@ -42,59 +46,13 @@
 - name: "Nabila Abraham"
   position: "MASc Student"
   active: "2017-2019"
-  affiliation: "Senior AI/MLOps Engineer, Covera Health"
+  affiliation: "ML Engineer, Cohere Inc"
 
-- name: "Salahaldeen Rabba"
-  position: "PhD Student"
-  active: "2013-2019"
-  affiliation: ""
+
 
 - name: "Julien Li Chee Ming"
   position: "Post-Doctoral Fellow"
   active: "2017-2018"
   affiliation: "Autonomous Machines Engineer, Applanix"
 
-- name: "Yifeng He"
-  position: "PhD Student / Post-Doc"
-  active: "2008-2017"
-  affiliation: "Senior Data Scientist"
 
-- name: "Harmanjot Sandhu"
-  position: "PhD Student"
-  active: "2012-2017"
-  affiliation: "Senior Big Data Analyst, TD Bank"
-
-- name: "Chengwu Liang"
-  position: "Visiting PhD Student"
-  active: "2015-2016"
-  affiliation: "PhD Student, Zhengzhou University"
-
-- name: "Xiaoming Nan"
-  position: "PhD Student"
-  active: "2010-2015"
-  affiliation: "Staff Software Developer, IBM Canada"
-
-- name: "Leon Zhang"
-  position: "MASc Student"
-  active: "2013-2015"
-  affiliation: "Senior Software Engineer, RBC"
-
-- name: "Edward Rosales"
-  position: "MASc Student"
-  active: "2012-2014"
-  affiliation: "Android Developer, theScore Inc."
-
-- name: "Yun Tie"
-  position: "PhD Student"
-  active: "2008-2013"
-  affiliation: "Assistant Professor, Zhengzhou University"
-
-- name: "Ning Zhang"
-  position: "PhD Student"
-  active: "2008-2013"
-  affiliation: "Engineer, MathWorks"
-
-- name: "Rui Zhang"
-  position: "PhD Student"
-  active: "2005-2011"
-  affiliation: "Senior Researcher, Epson Canada"

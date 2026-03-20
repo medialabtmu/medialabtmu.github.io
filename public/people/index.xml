@@ -13,19 +13,6 @@
     </image>
     
     <item>
-      <title>Naimul Mefraz Khan</title>
-      <link>http://localhost:1313/people/naimul-khan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/naimul-khan/</guid>
-      <description>&lt;p&gt;Naimul Mefraz Khan is an Associate Professor in the Department of Electrical,
-Computer, and Biomedical Engineering at Toronto Metropolitan University. He
-directs the Multimedia Research Laboratory, which focuses on multimedia
-processing, computer vision, and machine learning with applications in
-healthcare, defence, and mental health.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Alumni</title>
       <link>http://localhost:1313/people/alumni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

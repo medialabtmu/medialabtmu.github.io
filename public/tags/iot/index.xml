@@ -5,12 +5,22 @@
     <link>http://localhost:1313/tags/iot/</link>
       <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>IoT</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>IoT</title>
       <link>http://localhost:1313/tags/iot/</link>
     </image>
+    
+    <item>
+      <title>NSERC CRD Award: IoT Signals for Medical Emergency Decision-Making</title>
+      <link>http://localhost:1313/news/nserc-crd-dapasoft-2019/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-dapasoft-2019/</guid>
+      <description>&lt;p&gt;Dr. Ling Guan and Dr. Naimul Khan have been awarded a $300,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://dapasoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dapasoft Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This two-year project will develop new information processing tools and techniques to enhance emergency medical services. The system will utilize IoT sensors to continuously record patient symptoms, with machine learning analysis and immersive context-aware visualization methods to assist healthcare professionals in timely diagnosis and decision-making in emergency situations.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intelligent Analysis and Visualization of IoT Signals for Medical Emergency</title>

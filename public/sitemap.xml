@@ -6,9 +6,23 @@
   <url>
     <loc>http://localhost:1313/people/naimul-khan/</loc></url>
   <url>
-    <loc>http://localhost:1313/people/postdoc-example/</loc></url>
+    <loc>http://localhost:1313/tags/ai/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/people/student-example/</loc></url>
+    <loc>http://localhost:1313/tags/lab-news/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/mental-health/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/kids-help-phone-reflection-2026/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/conference/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/medical-imaging/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/isbi-2025/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/affective-computing/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -28,17 +42,9 @@
   <url>
     <loc>http://localhost:1313/tags/semantic-segmentation/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/tags/unsupervised-learning/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/zero-shot-learning/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/news/example-post/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/lab-news/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/news/</loc><lastmod>2024-09-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/arrhythmia-classification/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -58,6 +64,18 @@
   <url>
     <loc>http://localhost:1313/tags/virtual-reality/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://localhost:1313/tags/grants/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/healthcare/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nfrf-therapeutic-games-2022/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/nfrf/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/awards/</loc><lastmod>2021-07-19T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/best-paper-cvpr-2021/</loc><lastmod>2021-07-19T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://localhost:1313/projects/stress-assessment/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/multimodal-learning/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
@@ -66,9 +84,19 @@
   <url>
     <loc>http://localhost:1313/tags/signal-processing/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/news/nfrf-deescalation-2021/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/medical-imaging/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/tags/nserc/</loc><lastmod>2021-03-10T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-alliance-wellwave-2021/</loc><lastmod>2021-03-10T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/embc-2020/</loc><lastmod>2020-07-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</loc><lastmod>2020-03-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</loc><lastmod>2020-01-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/pocus/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -90,6 +118,12 @@
   <url>
     <loc>http://localhost:1313/tags/medical-image-segmentation/</loc><lastmod>2019-04-01T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://localhost:1313/tags/iot/</loc><lastmod>2019-03-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-crd-dapasoft-2019/</loc><lastmod>2019-03-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-crd-awe-2019/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://localhost:1313/projects/de-escalation/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/dova-health/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
@@ -98,11 +132,9 @@
   <url>
     <loc>http://localhost:1313/projects/quantomics/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/healthcare/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/projects/sinai-iot/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/iot/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/news/nserc-engage-shaftesbury-2018/</loc><lastmod>2018-06-06T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/biometrics/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -111,6 +143,10 @@
     <loc>http://localhost:1313/tags/machine-learning/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/road-safety/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/best-paper-ism-2017/</loc><lastmod>2017-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-crd-simentit-2017/</loc><lastmod>2017-10-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/museum-ar/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod></url>
   <url>

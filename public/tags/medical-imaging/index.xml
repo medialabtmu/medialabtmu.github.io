@@ -5,12 +5,34 @@
     <link>http://localhost:1313/tags/medical-imaging/</link>
       <atom:link href="http://localhost:1313/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical Imaging</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Medical Imaging</title>
       <link>http://localhost:1313/tags/medical-imaging/</link>
     </image>
+    
+    <item>
+      <title>RML at IEEE ISBI 2025</title>
+      <link>http://localhost:1313/news/isbi-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/isbi-2025/</guid>
+      <description>&lt;p&gt;RML will be presenting at the &lt;strong&gt;&lt;a href=&#34;https://biomedicalimaging.org/2025/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Symposium on Biomedical Imaging (ISBI) 2025&lt;/a&gt;&lt;/strong&gt;, showcasing the latest progress on AI-guided neonatal cardiac ultrasound analysis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;em&gt;Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification&lt;/em&gt;
+S. French, F. Zhu, A. Jain, N. Khan&lt;/p&gt;
+&lt;p&gt;The work introduces a novel temporal feature weaving approach for automatically classifying echocardiographic viewpoints in neonatal ultrasound video, a critical step toward fully automated cardiac assessment in the NICU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Alliance Grant: AI-Guided Neonatal Ultrasound Diagnosis and Training</title>
+      <link>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</guid>
+      <description>&lt;p&gt;Dr. Ling Guan, Dr. Naimul Khan, and Dr. Karthi Umapathy have been awarded a &lt;strong&gt;$669,000 NSERC Alliance Grant&lt;/strong&gt; in partnership with &lt;a href=&#34;https://dapasoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dapasoft Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The project will develop interpretable machine learning algorithms for computer-aided diagnosis of neonatal lung and heart diseases. Mount Sinai Hospital&amp;rsquo;s Neonatal Intensive Care Unit — the &lt;strong&gt;largest NICU in Canada&lt;/strong&gt; — relies on point-of-care ultrasound (POCUS) as the primary imaging modality for cardiac and pulmonary disease diagnosis in neonates. Operating POCUS on neonates requires a highly specialized skillset, and the project will additionally develop &lt;strong&gt;AI-guided training tools&lt;/strong&gt; to accelerate proficiency development for new ultrasound technologists.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Point-of-Care Ultrasound Analysis and Training</title>

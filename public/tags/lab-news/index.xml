@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/lab-news/</link>
       <atom:link href="http://localhost:1313/tags/lab-news/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab News</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Lab News</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Example News Post</title>
-      <link>http://localhost:1313/news/example-post/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/news/example-post/</guid>
-      <description>&lt;p&gt;Full content of the news post goes here.&lt;/p&gt;
+      <title>Youth Reflection: Kids Help Phone AI Training Pilot</title>
+      <link>http://localhost:1313/news/kids-help-phone-reflection-2026/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/kids-help-phone-reflection-2026/</guid>
+      <description>&lt;p&gt;Kids Help Phone youth councillor &lt;strong&gt;Simran&lt;/strong&gt; has written a reflection piece on RML&amp;rsquo;s recent pilot project conducted in partnership with &lt;a href=&#34;https://kidshelpphone.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kids Help Phone&lt;/a&gt; — exploring the development of an agentic AI framework for training frontline support workers.&lt;/p&gt;
+&lt;p&gt;The piece offers a youth perspective on how AI-assisted training tools could improve the consistency and quality of mental health support for young people. Read the full reflection: &lt;a href=&#34;https://www.longwoods.com/content/27829/insights/one-session-infinite-support-a-youth-perspective-on-mental-health-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&amp;ldquo;One Session, Infinite Support: A Youth Perspective on Mental Health Research&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

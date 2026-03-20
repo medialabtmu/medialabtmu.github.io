@@ -31,6 +31,26 @@
     </item>
     
     <item>
+      <title>NSERC CRD Award: Intelligent Scene Understanding for Mobile AR</title>
+      <link>http://localhost:1313/news/nserc-crd-awe-2019/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-awe-2019/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded a $90,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://www.awexr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWE Company Ltd.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This one-year project will develop machine learning algorithms that leverage point cloud data from modern mobile AR libraries (ARKit/ARCore) to provide intelligent 3D scene understanding. The resulting scene understanding capabilities will further enable &lt;strong&gt;collaborative augmented reality experiences&lt;/strong&gt; between multiple users sharing the same physical space.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC CRD Award: 3D Object Recognition for Museum Exhibits</title>
+      <link>http://localhost:1313/news/nserc-crd-simentit-2017/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-crd-simentit-2017/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan, Dr. Ling Guan, and Dr. Andy Ye have been awarded a $375,000 NSERC Collaborative Research and Development Grant in partnership with &lt;a href=&#34;https://simentit.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SimentIT Inc.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This two-year project will develop novel 3D object recognition and tracking algorithms for museum augmented reality exhibits. The technology will be deployed at the newly renovated &lt;a href=&#34;https://ingeniumcanada.org/sciencetech&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Canada Science and Technology Museum&lt;/a&gt; in Ottawa, enabling visitors to experience interactive AR overlays on physical artifacts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Augmented Reality Framework for Museum Exhibits</title>
       <link>http://localhost:1313/projects/museum-ar/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
