@@ -6,6 +6,26 @@ Selected demos, media coverage, and conference presentations from the lab.
 
 ---
 
+### Subway Sensations — Therapeutic VR Game
+*Demo from Holland Bloorview Kids Rehabilitation Hospital study*
+
+{{< gdrive 1dcvUYK9Y6rVXQVnwL9Nqjl7NXQWWsGlT >}}
+
+---
+
+### VR Therapy Experience for Mental Health Stigma Reduction
+*Study conducted in Kampala, Uganda (2023) — in collaboration with Prof. Carmen Logie, University of Toronto*
+
+{{< gdrive 1YIDSMekoHCw4N6yNtEN6w-6NcMnqI1Nv >}}
+
+---
+
+### VR Therapy Projects — Invited Talk at University of Windsor
+
+{{< youtube nxKpaJcl6DE >}}
+
+---
+
 ### CoShopper — AR Grocery Shopping Assistant
 *IEEE AIVR 2020*
 
