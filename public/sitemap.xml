@@ -4,17 +4,33 @@
   
   
   <url>
+    <loc>http://localhost:1313/tags/generative-ai/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/kids-help-phone/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/mental-health/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/nlp/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://localhost:1313/tags/ai/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/lab-news/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/mental-health/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/news/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/news/kids-help-phone-reflection-2026/</loc><lastmod>2026-03-15T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/multimodal-fusion/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/quantomics/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/signal-processing/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/conference/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -56,8 +72,6 @@
   <url>
     <loc>http://localhost:1313/publications/ahmad-2023-multilevel/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/multimodal-fusion/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/tags/stress-assessment/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/virtual-reality/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
@@ -78,10 +92,6 @@
   <url>
     <loc>http://localhost:1313/tags/multimodal-learning/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/projects/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/signal-processing/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/news/nfrf-deescalation-2021/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/nserc/</loc><lastmod>2021-03-10T00:00:00+00:00</lastmod></url>
@@ -93,8 +103,6 @@
     <loc>http://localhost:1313/news/nserc-alliance-dapasoft-2020/</loc><lastmod>2020-03-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/nserc-crd-shaftesbury-2020/</loc><lastmod>2020-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/pocus/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -125,10 +133,6 @@
     <loc>http://localhost:1313/projects/de-escalation/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/dova-health/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/projects/kids-help-phone/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/projects/quantomics/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/sinai-iot/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
   <url>

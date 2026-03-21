@@ -1,0 +1,13 @@
+name:
+  display: "Connor Collington"
+  given: "Connor"
+  family: "Collington"
+
+role: "MASc Student"
+
+bio: "Research focuses on machine learning-assisted sub-diffraction localization of quantum dots."
+
+user_groups:
+  - Graduate Students
+
+weight: 34

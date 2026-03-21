@@ -22,6 +22,12 @@ funder_logos:
   - image: nserc.png
     alt: NSERC
     url: https://www.nserc-crsng.gc.ca
+  - image: mitacs.jpg
+    alt: Mitacs
+    url: https://www.mitacs.ca/
+  - image: NFRF.jpg
+    alt: New Frontiers in Research Fund
+    url: https://sshrc-crsh.canada.ca/funding-financement/nfrf-fnfr/index-eng.aspx
   - image: shaftesbury.jpg
     alt: Company Name
     url: https://example.com

@@ -1,0 +1,13 @@
+name:
+  display: "Safwan Hasan"
+  given: "Safwan"
+  family: "Hasan"
+
+role: "MASc Student"
+
+bio: "Research focuses on facial expression synthesis for ALS patients using agentic AI frameworks."
+
+user_groups:
+  - Graduate Students
+
+weight: 33

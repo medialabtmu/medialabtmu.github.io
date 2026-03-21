@@ -1,10 +1,10 @@
 ---
-title: "Mount Sinai IoT project"
-summary: "Intelligent Analysis and Visualization of IoT signals for medical emergency"
-date: 2019-02-05
-date_range: "2019–2022"
+title: "Intelligent Analysis of Intestinal Ultrasound"
+summary: "AI-assisted Analysis of Intestinal Ultrasound for Rapid IBD assessment"
+date: 2025-10-05
+date_range: "2025–2027"
 tags:
-  - Multimodal Fusion
+  - Medical Imaging
   - Signal Processing
   - Deep Learning
 
@@ -21,18 +21,21 @@ funder_logos:
   - image: nserc.png
     alt: NSERC
     url: https://www.nserc-crsng.gc.ca
-  - image: dapasoft.jpg
-    alt: Company Name
-    url: https://example.com
+  - image: mitacs.jpg
+    alt: Mitacs
+    url: https://mitacs.ca
+  - image: dova.png
+    alt: Dova Health Intelligence
+    url: https://www.dovahealth.ca/
 ---
 
 ## Overview
 
-Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.
+Collaborating with Dova Health Intelligence, the team will develop AI algorithms for segmentation and analysis of intestinal ultrasound to improve speed and accuracy of Inflamatory Bowel Disease (IBD) assessment.
 
 
 
 
 ## Funding
 
-- NSERC Collaborative Research and Development Grant (CRD) - $669K
+- NSERC Alliance + Mitacs Accelerate - $120K

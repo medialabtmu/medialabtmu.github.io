@@ -1,0 +1,13 @@
+name:
+  display: "Bardia Dehbasti"
+  given: "Bardia"
+  family: "Dehbasti"
+
+role: "MASc Student"
+
+bio: "Research focuses on multimodal assessment of user engagement in VR environments using eye tracking and controller movement analysis."
+
+user_groups:
+  - Graduate Students
+
+weight: 30

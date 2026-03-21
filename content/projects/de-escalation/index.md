@@ -1,12 +1,13 @@
 ---
-title: "Mount Sinai IoT project"
-summary: "Intelligent Analysis and Visualization of IoT signals for medical emergency"
-date: 2019-02-05
-date_range: "2019–2022"
+title: "De-escalation training for emergency responders"
+summary: "An adaptive VR de-escalation training system for Canada's first responders"
+date: 2021-04-01
+date_range: "2022–2025"
 tags:
-  - Multimodal Fusion
+  - Virtual Reality
   - Signal Processing
-  - Deep Learning
+  - Multimodal Fusion
+  - De-escalation
 
 # Optional: link to external project page
 external_link: ""
@@ -21,18 +22,24 @@ funder_logos:
   - image: nserc.png
     alt: NSERC
     url: https://www.nserc-crsng.gc.ca
-  - image: dapasoft.jpg
-    alt: Company Name
-    url: https://example.com
+  - image: NFRF.jpg
+    alt: New Frontiers in Research Fund
+    url: https://sshrc-crsh.canada.ca/funding-financement/nfrf-fnfr/index-eng.aspx
+
 ---
 
 ## Overview
 
-Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.
+In partnership with the **Ontario Provincial Police**, the project will create adaptive scenario-based VR training experiences using multimodal sensing to dynamically respond to trainee behaviour in real time. The interdisciplinary team includes:
+
+- **Dr. Natalie Alvarez** (School of Performing Arts) — narrative design and embodied learning
+- **Dr. Jennifer Lavoie** (Criminology, Wilfrid Laurier University) — crisis intervention expertise
+
 
 
 
 
 ## Funding
 
-- NSERC Collaborative Research and Development Grant (CRD) - $669K
+- New Frontiers in Research Fund - Exploration - $250K 
+- NSERC Alliance COVID-19 - $50K

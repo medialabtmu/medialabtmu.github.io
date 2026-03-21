@@ -1,0 +1,13 @@
+name:
+  display: "Salma Mohamed"
+  given: "Salma"
+  family: "Mohamed"
+
+role: "MASc Student"
+
+bio: "Research focuses on VR-based exposure therapy applications for children on the autism spectrum. Co-supervised with Prof. Karen Soldatic (CERC in Health Equity)."
+
+user_groups:
+  - Graduate Students
+
+weight: 31

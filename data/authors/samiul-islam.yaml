@@ -1,0 +1,13 @@
+name:
+  display: "Samiul Islam"
+  given: "Samiul"
+  family: "Islam"
+
+role: "MASc Student"
+
+bio: "Research focuses on multi-agent AI collaboration for improved mental health chatbot support, in partnership with Kids Help Phone."
+
+user_groups:
+  - Graduate Students
+
+weight: 32

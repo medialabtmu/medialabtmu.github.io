@@ -5,12 +5,26 @@
     <link>http://localhost:1313/tags/signal-processing/</link>
       <atom:link href="http://localhost:1313/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Signal Processing</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Signal Processing</title>
       <link>http://localhost:1313/tags/signal-processing/</link>
     </image>
+    
+    <item>
+      <title>QuantOmics</title>
+      <link>http://localhost:1313/projects/quantomics/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantomics/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Multimodal Affective Computing</title>
@@ -47,34 +61,6 @@
       <link>http://localhost:1313/projects/dova-health/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/dova-health/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/kids-help-phone/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/kids-help-phone/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/quantomics/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/quantomics/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
 &lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;

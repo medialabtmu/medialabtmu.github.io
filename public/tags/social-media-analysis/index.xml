@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media Analysis | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/social-media-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/social-media-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Media Analysis</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Social Media Analysis</title>
+      <link>http://localhost:1313/tags/social-media-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Observatory on Immigration Discourses (IDIO)</title>
+      <link>http://localhost:1313/projects/idio/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/idio/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The Observatory on Immigration Discourses (IDIO) is a large-scale social data observatory developed as part of the &lt;a href=&#34;https://www.torontomu.ca/bridging-divides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging Divides&lt;/a&gt; initiative at Toronto Metropolitan University. The project compiles and analyzes immigration-related discourse from news articles, social media posts, government documents, and other publicly available sources using privacy-preserving AI methods.&lt;/p&gt;
+&lt;p&gt;IDIO serves as foundational research infrastructure supporting all four thematic areas of the Bridging Divides program, providing researchers with data-driven insights into social phenomena around immigration in Canada and beyond. The observatory enables both qualitative and quantitative analysis of how immigration is framed, discussed, and contested in public discourse in real time.&lt;/p&gt;
+&lt;p&gt;Dr. Muhammad Rehman Zafar leads this project as cluster lead within the Bridging Divides program.&lt;/p&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;How can AI tools be leveraged to assemble a comprehensive, continuously updated repository of immigration-related documents?&lt;/li&gt;
+&lt;li&gt;What insights can an immigration observatory reveal about Canadian immigration discourse over time?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.torontomu.ca/bridging-divides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging Divides Research Initiative&lt;/a&gt;, Toronto Metropolitan University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Canada First Research Excellence Fund (CFREF) — via Bridging Divides&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
