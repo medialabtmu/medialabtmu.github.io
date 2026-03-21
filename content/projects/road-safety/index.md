@@ -19,6 +19,9 @@ funder_logos:
   - image: nserc.png
     alt: NSERC
     url: https://www.nserc-crsng.gc.ca
+  - image: ACS.png
+    alt: ACS
+    url: https://example.com
 ---
 
 ## Overview

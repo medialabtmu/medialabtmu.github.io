@@ -13,12 +13,40 @@
     </image>
     
     <item>
+      <title>Kids Help Phone</title>
+      <link>http://localhost:1313/projects/kids-help-phone/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kids-help-phone/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Coming Soon&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Coming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Youth Reflection: Kids Help Phone AI Training Pilot</title>
       <link>http://localhost:1313/news/kids-help-phone-reflection-2026/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/news/kids-help-phone-reflection-2026/</guid>
       <description>&lt;p&gt;Kids Help Phone youth councillor &lt;strong&gt;Simran&lt;/strong&gt; has written a reflection piece on RML&amp;rsquo;s recent pilot project conducted in partnership with &lt;a href=&#34;https://kidshelpphone.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kids Help Phone&lt;/a&gt; — exploring the development of an agentic AI framework for training frontline support workers.&lt;/p&gt;
 &lt;p&gt;The piece offers a youth perspective on how AI-assisted training tools could improve the consistency and quality of mental health support for young people. Read the full reflection: &lt;a href=&#34;https://www.longwoods.com/content/27829/insights/one-session-infinite-support-a-youth-perspective-on-mental-health-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&amp;ldquo;One Session, Infinite Support: A Youth Perspective on Mental Health Research&amp;rdquo;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QuantOmics</title>
+      <link>http://localhost:1313/projects/quantomics/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantomics/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -244,34 +272,6 @@ S. French, F. Zhu, A. Jain, N. Khan&lt;/p&gt;
       <link>http://localhost:1313/projects/dova-health/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/dova-health/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/kids-help-phone/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/kids-help-phone/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/quantomics/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/quantomics/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
 &lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;

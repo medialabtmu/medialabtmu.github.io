@@ -18,6 +18,9 @@ funder_logos:
   - image: nserc.png
     alt: NSERC
     url: https://www.nserc-crsng.gc.ca
+  - image: dapasoft.jpg
+    alt: Dapasoft
+    url: https://www.nserc-crsng.gc.ca
 ---
 
 ## Overview
