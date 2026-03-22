@@ -34,6 +34,17 @@
     </item>
     
     <item>
+      <title>Bronze Medal at Kaggle — Bacterial Flagellar Motors Detection</title>
+      <link>http://localhost:1313/news/kaggle-bronze-flagellar-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/kaggle-bronze-flagellar-2025/</guid>
+      <description>&lt;p&gt;MASc student Yufei Ren and Dr. Naimul Khan won a &lt;strong&gt;Bronze Medal&lt;/strong&gt; in the &lt;a href=&#34;https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle BYU Locating Bacterial Flagellar Motors in 3D Tomograms competition&lt;/a&gt;, placing &lt;strong&gt;64th out of 1,136 teams&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The task involved detecting bacterial flagellar motor locations in 3D cryo-electron tomograms — a challenging volumetric detection problem with significant implications for structural biology. Our approach was based on &lt;a href=&#34;https://github.com/yang-0201/MHAF-YOLO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MHAF-YOLO&lt;/a&gt;, a multi-head attention feature fusion architecture adapted for 3D detection.&lt;/p&gt;
+&lt;p&gt;Congratulations Yufei!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>RML at IEEE ISBI 2025</title>
       <link>http://localhost:1313/news/isbi-2025/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
@@ -42,6 +53,29 @@
 &lt;p&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;em&gt;Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification&lt;/em&gt;
 S. French, F. Zhu, A. Jain, N. Khan&lt;/p&gt;
 &lt;p&gt;The work introduces a novel temporal feature weaving approach for automatically classifying echocardiographic viewpoints in neonatal ultrasound video, a critical step toward fully automated cardiac assessment in the NICU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RML at IEEE EMBC 2024</title>
+      <link>http://localhost:1313/news/embc-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/embc-2024/</guid>
+      <description>&lt;p&gt;RML members presented three papers at the &lt;strong&gt;46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2024)&lt;/strong&gt;. Congratulations to Behzad and Paolo!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;EEG Signal Denoising Using Beta-Variational Autoencoder&lt;/strong&gt;
+B. Mahaseni, N. Khan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-modal Emotion Recognition Using EEG and Eye Tracking Features&lt;/strong&gt;
+P. Iacono, N. Khan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Structure Preserving CycleGAN for Unsupervised Medical Image Domain Adaptation&lt;/strong&gt;
+P. Iacono, N. Khan&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

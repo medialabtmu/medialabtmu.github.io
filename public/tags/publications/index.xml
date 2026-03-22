@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | TMU Multimedia Research Laboratory</title>
+    <link>http://localhost:1313/tags/publications/</link>
+      <atom:link href="http://localhost:1313/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/tags/publications/</link>
+    </image>
+    
+    <item>
+      <title>RML at IEEE EMBC 2024</title>
+      <link>http://localhost:1313/news/embc-2024/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/embc-2024/</guid>
+      <description>&lt;p&gt;RML members presented three papers at the &lt;strong&gt;46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2024)&lt;/strong&gt;. Congratulations to Behzad and Paolo!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;EEG Signal Denoising Using Beta-Variational Autoencoder&lt;/strong&gt;
+B. Mahaseni, N. Khan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-modal Emotion Recognition Using EEG and Eye Tracking Features&lt;/strong&gt;
+P. Iacono, N. Khan&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Structure Preserving CycleGAN for Unsupervised Medical Image Domain Adaptation&lt;/strong&gt;
+P. Iacono, N. Khan&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,23 @@
     <link>http://localhost:1313/tags/awards/</link>
       <atom:link href="http://localhost:1313/tags/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Awards</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Awards</title>
       <link>http://localhost:1313/tags/awards/</link>
     </image>
+    
+    <item>
+      <title>Bronze Medal at Kaggle — Bacterial Flagellar Motors Detection</title>
+      <link>http://localhost:1313/news/kaggle-bronze-flagellar-2025/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/kaggle-bronze-flagellar-2025/</guid>
+      <description>&lt;p&gt;MASc student Yufei Ren and Dr. Naimul Khan won a &lt;strong&gt;Bronze Medal&lt;/strong&gt; in the &lt;a href=&#34;https://www.kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle BYU Locating Bacterial Flagellar Motors in 3D Tomograms competition&lt;/a&gt;, placing &lt;strong&gt;64th out of 1,136 teams&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The task involved detecting bacterial flagellar motor locations in 3D cryo-electron tomograms — a challenging volumetric detection problem with significant implications for structural biology. Our approach was based on &lt;a href=&#34;https://github.com/yang-0201/MHAF-YOLO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MHAF-YOLO&lt;/a&gt;, a multi-head attention feature fusion architecture adapted for 3D detection.&lt;/p&gt;
+&lt;p&gt;Congratulations Yufei!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Best Paper Runner-Up at CVPR 2021 Workshop</title>

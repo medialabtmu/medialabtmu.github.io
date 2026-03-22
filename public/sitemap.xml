@@ -46,13 +46,19 @@
   <url>
     <loc>http://localhost:1313/news/nserc-alliance-dova-health/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://localhost:1313/tags/awards/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/kaggle-bronze-flagellar-2025/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/computer-vision/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc><lastmod>2025-06-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://localhost:1313/tags/conference/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/isbi-2025/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/affective-computing/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/computer-vision/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/domain-adaptation/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -71,6 +77,10 @@
     <loc>http://localhost:1313/tags/unsupervised-learning/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/zero-shot-learning/</loc><lastmod>2025-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/publications/</loc><lastmod>2024-07-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/embc-2024/</loc><lastmod>2024-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/arrhythmia-classification/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -93,8 +103,6 @@
     <loc>http://localhost:1313/news/nfrf-therapeutic-games-2022/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/nfrf/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/awards/</loc><lastmod>2021-07-19T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/best-paper-cvpr-2021/</loc><lastmod>2021-07-19T00:00:00+00:00</lastmod></url>
   <url>
@@ -151,8 +159,6 @@
     <loc>http://localhost:1313/tags/biometrics/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/road-safety/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/road-safety/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod></url>
   <url>
