@@ -32,9 +32,21 @@
   <url>
     <loc>http://localhost:1313/tags/signal-processing/</loc><lastmod>2026-01-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/conference/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/tags/immigration/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/medical-imaging/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
+    <loc>http://localhost:1313/projects/idio/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/social-media-analysis/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/dova-health/</loc><lastmod>2025-10-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/medical-imaging/</loc><lastmod>2025-10-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/grants/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/news/nserc-alliance-dova-health/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/conference/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/isbi-2025/</loc><lastmod>2025-02-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -76,8 +88,6 @@
   <url>
     <loc>http://localhost:1313/tags/virtual-reality/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://localhost:1313/tags/grants/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://localhost:1313/tags/healthcare/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/nfrf-therapeutic-games-2022/</loc><lastmod>2022-04-01T00:00:00+00:00</lastmod></url>
@@ -91,6 +101,10 @@
     <loc>http://localhost:1313/projects/stress-assessment/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/tags/multimodal-learning/</loc><lastmod>2021-04-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/tags/de-escalation/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://localhost:1313/projects/de-escalation/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/nfrf-deescalation-2021/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -129,10 +143,6 @@
     <loc>http://localhost:1313/news/nserc-crd-dapasoft-2019/</loc><lastmod>2019-03-07T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/news/nserc-crd-awe-2019/</loc><lastmod>2019-03-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/projects/de-escalation/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://localhost:1313/projects/dova-health/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://localhost:1313/projects/sinai-iot/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod></url>
   <url>

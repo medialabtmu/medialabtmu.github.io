@@ -35,29 +35,20 @@
     </item>
     
     <item>
-      <title>Mount Sinai IoT project</title>
+      <title>De-escalation training for emergency responders</title>
       <link>http://localhost:1313/projects/de-escalation/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/de-escalation/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;p&gt;In partnership with the &lt;strong&gt;Ontario Provincial Police&lt;/strong&gt;, the project will create adaptive scenario-based VR training experiences using multimodal sensing to dynamically respond to trainee behaviour in real time. The interdisciplinary team includes:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Natalie Alvarez&lt;/strong&gt; (School of Performing Arts) — narrative design and embodied learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr. Jennifer Lavoie&lt;/strong&gt; (Criminology, Wilfrid Laurier University) — crisis intervention expertise&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/dova-health/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dova-health/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
 &lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
+&lt;li&gt;New Frontiers in Research Fund - Exploration - $250K&lt;/li&gt;
+&lt;li&gt;NSERC Alliance COVID-19 - $50K&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

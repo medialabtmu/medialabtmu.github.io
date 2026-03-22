@@ -8,19 +8,20 @@ The TMU Multimedia Research Laboratory is located at Toronto Metropolitan
 University in downtown Toronto.
 
 **Address:**
-Toronto Metropolitan University
-350 Victoria Street
-Toronto, ON M5B 2K3
-Canada
+
+Eric Palin Hall, room 426
+
+87 Gerrad Street East
+
+Toronto, ON M5B 1G7
+
+
 
 ## Get in Touch
 
 For general inquiries about the lab, prospective students, or collaboration
 opportunities, please contact:
 
-**Dr. Naimul Khan**
-Associate Professor, Department of Electrical, Computer, and Biomedical Engineering
-Director, Multimedia Research Laboratory
 Email: [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca)
 
 <!--

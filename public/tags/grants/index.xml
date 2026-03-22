@@ -5,12 +5,23 @@
     <link>http://localhost:1313/tags/grants/</link>
       <atom:link href="http://localhost:1313/tags/grants/index.xml" rel="self" type="application/rss+xml" />
     <description>Grants</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en</language><copyright>TMU Multimedia Research Laboratory</copyright><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_b75eb5f9d175ec1b.png</url>
       <title>Grants</title>
       <link>http://localhost:1313/tags/grants/</link>
     </image>
+    
+    <item>
+      <title>NSERC Alliance Grant Awarded for AI-Assisted Intestinal Ultrasound Analysis</title>
+      <link>http://localhost:1313/news/nserc-alliance-dova-health/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-dova-health/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded an NSERC Alliance grant (with Mitacs Accelerate support) totalling $120K to develop AI algorithms for segmentation and analysis of intestinal ultrasound, in partnership with &lt;a href=&#34;https://www.dovahealth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dova Health Intelligence&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project targets faster and more accurate assessment of Inflammatory Bowel Disease (IBD) — a condition affecting millions of Canadians — by automating the interpretation of intestinal ultrasound images using deep learning. IBD assessment currently relies heavily on specialist expertise, and AI-assisted tools have the potential to significantly reduce diagnostic delays.&lt;/p&gt;
+&lt;p&gt;This project is led by Dr. Randy Tan as post-doctoral research lead.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Frontiers in Research Fund Award: Therapeutic VR for Children on the Spectrum</title>

@@ -27,6 +27,31 @@
     </item>
     
     <item>
+      <title>Intelligent Analysis of Intestinal Ultrasound</title>
+      <link>http://localhost:1313/projects/dova-health/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/dova-health/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Collaborating with Dova Health Intelligence, the team will develop AI algorithms for segmentation and analysis of intestinal ultrasound to improve speed and accuracy of Inflamatory Bowel Disease (IBD) assessment.&lt;/p&gt;
+&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC Alliance + Mitacs Accelerate - $120K&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NSERC Alliance Grant Awarded for AI-Assisted Intestinal Ultrasound Analysis</title>
+      <link>http://localhost:1313/news/nserc-alliance-dova-health/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/nserc-alliance-dova-health/</guid>
+      <description>&lt;p&gt;Dr. Naimul Khan has been awarded an NSERC Alliance grant (with Mitacs Accelerate support) totalling $120K to develop AI algorithms for segmentation and analysis of intestinal ultrasound, in partnership with &lt;a href=&#34;https://www.dovahealth.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dova Health Intelligence&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project targets faster and more accurate assessment of Inflammatory Bowel Disease (IBD) — a condition affecting millions of Canadians — by automating the interpretation of intestinal ultrasound images using deep learning. IBD assessment currently relies heavily on specialist expertise, and AI-assisted tools have the potential to significantly reduce diagnostic delays.&lt;/p&gt;
+&lt;p&gt;This project is led by Dr. Randy Tan as post-doctoral research lead.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Point-of-Care Ultrasound Analysis and Training</title>
       <link>http://localhost:1313/projects/pocus/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -59,34 +84,6 @@
 &lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;NSERC Collaborative Research and Development Grant (CRD)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/de-escalation/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/de-escalation/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mount Sinai IoT project</title>
-      <link>http://localhost:1313/projects/dova-health/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dova-health/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Collaborating with Dapasoft Inc., this project aims to develop new information processing tools and techniques to enhance emergency medical service. The target is to develop healthcare systems utilizing various IoT sensors to record the symptoms of the patients and analyze the data with machine learning and immersive context-aware visualization methods to assist the healthcare professionals in performing timely decision making in emergency situations.&lt;/p&gt;
-&lt;h2 id=&#34;funding&#34;&gt;Funding&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;NSERC Collaborative Research and Development Grant (CRD) - $669K&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
