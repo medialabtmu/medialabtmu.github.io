@@ -9,7 +9,7 @@ tags:
   - Deep Learning
 
 # Optional: link to external project page
-external_link: ""
+external_link: "https://quantomics.ca"
 
 # Optional: featured image (place featured.jpg in this folder)
 image:
