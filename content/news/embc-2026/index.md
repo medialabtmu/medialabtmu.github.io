@@ -13,7 +13,7 @@ summary: "RML has three papers accepted to IEEE EMBC 2026 in Toronto, covering m
 RML is proud to have three papers accepted to the [IEEE Engineering in Medicine and Biology Conference (EMBC 2026)](https://embc.embs.org/2026/), taking place in **Toronto, Canada** in July 2026.
 
 **MultiLangCue: Exploring Multilingual Emotion Recognition Through Language-Specific Prompting**
-*N. Viera, C. Wasef, N. Khan*
+*N. Vieira, C. Wasef, N. Khan*
 This paper investigates how emotion recognition models can be adapted through language-specific prompting, leveraging features unique to each language. The approach is evaluated on English and German datasets, exploring the intersection of multilingual NLP and affective computing.
 
 **R-ECAM: Reliability-Aware Ensemble Class Activation Map for Breast Lesion Pseudo-Mask Generation**
@@ -24,4 +24,4 @@ An unsupervised segmentation model for breast lesion detection that leverages cl
 *S. Hassan, N. Khan*
 A novel approach to facial expression synthesis for sign language generation using in-context learning with large language models — an underexplored problem with important implications for accessible communication technology.
 
-Congratulations to Natasha, Carol, Somayeh, and Safwan!
+Congratulations to Nicholas, Carol, Somayeh, and Safwan!
