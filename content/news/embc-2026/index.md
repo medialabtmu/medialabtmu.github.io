@@ -24,4 +24,4 @@ An unsupervised segmentation model for breast lesion detection that leverages cl
 *S. Hassan, N. Khan*
 A novel approach to facial expression synthesis for sign language generation using in-context learning with large language models — an underexplored problem with important implications for accessible communication technology.
 
-Congratulations to Nicholas, Carol, Somayeh, and Safwan!
+Congratulations to Nicholas Vieira, Carol Wasef, Somayeh Barzegar, and Safwan Hassan!
