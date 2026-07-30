@@ -28,9 +28,9 @@
     {{ .Content }}
   </div>
 
-  {{/* Funder logos row */}}
+  {{/* Funder/partner logos row */}}
   {{ with .Params.funder_logos }}
-  <div class="mt-6 flex flex-wrap items-center gap-6">
+  <div class="mt-2 flex flex-wrap items-center gap-6">
     {{ range . }}
     {{ $img := $.Resources.GetMatch .image }}
     {{ if $img }}
