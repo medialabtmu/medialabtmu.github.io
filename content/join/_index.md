@@ -6,6 +6,9 @@ The TMU Multimedia Research Laboratory is always looking for motivated researche
 
 ## Open Positions
 
+**Post-Doctoral Fellow — Kids Help Phone AI Project**
+We are seeking a Post-Doctoral Fellow to join our collaboration with [Kids Help Phone](https://kidshelpphone.ca/) on developing an agentic AI framework for training frontline mental health support workers. The successful candidate will have a strong background in large language models, agentic AI systems, or NLP, with an interest in applying these methods to mental health and social impact domains. [Apply here](https://forms.gle/Sbx8hS9zMhcvD2Hr9).
+
 **PhD**
 Not currently accepting new PhD students.
 
