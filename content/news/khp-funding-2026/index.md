@@ -6,10 +6,10 @@ tags:
   - Mental Health
   - Generative AI
   - Lab News
-summary: "RML receives $3.2M from Wellcome in partnership with Kids Help Phone to develop a generative AI simulator for training frontline youth mental health crisis responders."
+summary: "Dr. Khan leads TMU's role in a $3.2M Wellcome-funded project with Kids Help Phone to develop a generative AI simulator for training frontline youth mental health crisis responders."
 ---
 
-RML has received **$3.2 million in funding from [Wellcome](https://wellcome.org)** in partnership with [Kids Help Phone](https://kidshelpphone.ca/) to develop a generative AI simulator for crisis responder training.
+Dr. Naimul Khan is the TMU lead on a **$3.2 million [Wellcome](https://wellcome.org)-funded project** in partnership with [Kids Help Phone](https://kidshelpphone.ca/) to develop a generative AI simulator for crisis responder training.
 
 The project creates a prototype trained on 750,000+ de-identified KHP transcripts to generate realistic youth crisis scenarios. This allows volunteers to practice in a safe environment with real-time performance feedback aligned with KHP's clinical standards — before working directly with young people. The model will be tested internationally and shared globally through [Child Helpline International](https://childhelplineinternational.org/).
 
