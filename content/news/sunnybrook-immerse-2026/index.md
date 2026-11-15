@@ -17,7 +17,7 @@ Their work was showcased at the **SCSC Immerse: Ideas in Motion** event at Sunny
 
 ---
 
-TMU's Provost and incoming President Dr. Roberta Iannacito-Provenzano shared her reaction after attending the showcase:
+TMU's Provost and incoming President [Dr. Roberta Iannacito-Provenzano](https://www.linkedin.com/posts/dr-roberta-iannacito-provenzano-4994831b_healthcareinnovation-experientiallearning-ugcPost-7505780556958347264-bvNN/) shared her reaction after attending the showcase:
 
 > *"I had the pleasure of attending the SCSC Immerse: Ideas in Motion Showcase at Sunnybrook Health Sciences Centre to witness our TMU students in action with their Sunnybrook partners. One year in, the momentum is inspiring and the possibilities ahead are even more exciting."*
 
